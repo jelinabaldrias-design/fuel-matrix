@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Intra-Luzon Fuel Matrix</title>
+<title>Intra-Luzon Fuel Matrix Lookup</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@500;600&display=swap" rel="stylesheet">
@@ -121,12 +121,22 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
 .chips b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
 .leg .err{color:var(--err);font-size:.9rem;margin-top:6px}
 .copied{font-size:.85rem;color:var(--muted);align-self:center}
+
+/* 3-column: Input | Total | Hati-hati ng biyahe (magkakatabi) */
+@media (min-width:980px){
+  main{max-width:1600px}
+  .layout{display:grid;grid-template-columns:minmax(280px,340px) minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:start}
+  #result{display:contents}
+  .restot{grid-column:2;min-width:0}
+  .legs{grid-column:3;margin-top:0;min-width:0}
+  #result > .empty{grid-column:2 / 4}
+}
 </style>
 </head>
 <body>
 <main>
-  <h1>Fuel Matrix</h1>
-  <p class="sub">Ilagay ang mga stop ayon sa pagkakasunod-sunod ng biyahe.</p>
+  <h1>Fuel Matrix Lookup</h1>
+  <p class="sub">Ilagay ang mga stop ayon sa pagkakasunod-sunod ng biyahe. Susumahin ang distansya at gasolina.</p>
 
   <div class="layout">
   <section class="panel" aria-label="Biyahe">
@@ -144,7 +154,7 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
   <div id="result" aria-live="polite"></div>
   </div>
   <p class="status" id="status" aria-live="polite"></p>
-  <p class="status" id="ver">Bersyon ng file: v6 (may "Dahilan" sa error)</p>
+  <p class="status" id="ver">Bersyon ng file: v8 (3-column, magkakatabi)</p>
   <footer>Pinagmulan: Intra Luzon Fuel Matrix, sheet na drylease_matrix. Ang litro ay ayon sa matrix.</footer>
 </main>
 
@@ -251,7 +261,7 @@ const stopsEl = $("stops");
 
 function esc(s){ return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
 function fmt(n){ return (Math.round(n*10)/10).toLocaleString("en-US",{maximumFractionDigits:1}); }
-function labelFor(k,n){ return k===0 ? "Origin" : (k===n-1 ? "End Station" : "Stop "+(k+1)); }
+function labelFor(k,n){ return k===0 ? "Origin" : (k===n-1 ? "Destination" : "Stop "+(k+1)); }
 
 function poolFor(k){
   const prev = k>0 ? stops[k-1] : null;
@@ -364,17 +374,18 @@ function update(){
   const legCountTxt = legs.length+" leg";
   const pendingStops = stops.some(s=>s==null);
 
-  let html='';
+  let html='<div class="restot">';
   if(missing>0) html+='<div class="msg err warn"><strong>Kulang ang data.</strong> '+missing+' sa '+legs.length+' leg ang walang data sa matrix, kaya hindi kasama sa total.</div>';
   else if(pendingStops) html+='<div class="msg warn">May stop na hindi pa napipili. Ang total ay para sa mga leg na kumpleto lang.</div>';
 
   const rows=vehicles.map((v,x)=>'<tr><td>'+esc(v)+'</td><td class="n">'+fmt(tot[x])+' L</td></tr>').join("");
   html+='<div class="card '+cls+' totalcard" style="margin-top:0">'+
     '<div class="kmrow"><span>Kabuuang distansya ('+found+' leg)</span><div><b>'+fmt(km)+'</b><small>km</small></div></div>'+
-    '<table><thead><tr><th>Uri ng sasakyan</th><th class="n">Kabuuang diesel ('+(lease==="wet"?"wet lease":"dry lease")+')</th></tr></thead><tbody>'+rows+'</tbody></table></div>';
+    '<table><thead><tr><th>Uri ng sasakyan</th><th class="n">Kabuuang gasolina ('+(lease==="wet"?"wet lease":"dry lease")+')</th></tr></thead><tbody>'+rows+'</tbody></table></div>';
 
-  html+='<div class="actions" style="margin-top:10px"><button type="button" class="btn" id="copy">Kopyahin</button><span class="copied" id="copied"></span></div>';
+  html+='<div class="actions" style="margin-top:10px"><button type="button" class="btn" id="copy">Kopyahin ang buod</button><span class="copied" id="copied"></span></div>';
 
+  html+='</div>';
   html+='<section class="legs"><h2>Hati-hati ng biyahe</h2>';
   for(const L of legs){
     const route='<span class="lroute">'+esc(NAMES[L.a])+' → '+esc(NAMES[L.b])+'</span>';

@@ -146,7 +146,7 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
     </div>
     <div id="stops"></div>
     <div class="actions">
-      <button type="button" class="btn primary" id="add">Add na stop</button>
+      <button type="button" class="btn primary" id="add">Add stop</button>
       <button type="button" class="btn ghost" id="reset">Ulitin</button>
     </div>
   </section>
@@ -261,7 +261,7 @@ const stopsEl = $("stops");
 
 function esc(s){ return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
 function fmt(n){ return (Math.round(n*10)/10).toLocaleString("en-US",{maximumFractionDigits:1}); }
-function labelFor(k,n){ return k===0 ? "Origin" : (k===n-1 ? "End Station" : "Stop "+(k+1)); }
+function labelFor(k,n){ return k===0 ? "Origin" : (k===n-1 ? "End Station" : "Stop "+k); }
 
 function poolFor(k){
   const prev = k>0 ? stops[k-1] : null;

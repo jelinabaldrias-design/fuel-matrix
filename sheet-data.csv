@@ -6590,10 +6590,10 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5OP Magallanes Cavite Hub,SOC 5,OP Magallanes Cavite Hub,GMA,SOL,GMA SOL,,74,9,9,11,19,37,13,,74,2,2,2,2,3,2,,11,11,13,21,40,15
 1,OP Landayan San Pedro HubSOC 8 Parking,OP Landayan San Pedro Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,20,3,3,3,5,10,4,,20,2,2,2,2,3,2,,5,5,5,7,13,6
 1,Orion HubSOC 9,Orion Hub,SOC 9,GMA,NOL,GMA NOL,,103,13,13,15,26,52,19,,103,2,2,2,2,3,2,,15,15,17,28,55,21
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 8 ParkingSan Pascual-Batangas Hub,SOC 8 Parking,San Pascual-Batangas Hub,LUZ,SOL,FAR SOL,,62,8,8,9,16,31,11,,62,2,2,2,2,3,2,,10,10,11,18,34,13
+1,San Pascual-Batangas HubSOC 8 Parking,San Pascual-Batangas Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,62,8,8,9,16,31,11,,62,2,2,2,2,3,2,,10,10,11,18,34,13
+1,SOC 8MFM Cabuyao,SOC 8,MFM Cabuyao,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
+1,OP Pinagsama Taguig HubSOC 8,OP Pinagsama Taguig Hub,SOC 8,GMA,SOL,GMA SOL,,35,4,4,5,9,18,6,,35,2,2,2,2,3,2,,6,6,7,11,21,8
 1,IISIIS,IIS,IIS,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 1,SOC 8Iloilo DC,SOC 8,Iloilo DC,VIS,VIS,VIS,,456,57,57,65,114,228,83,,456,2,2,2,2,3,2,,59,59,67,116,231,85
 1,Iloilo DCSOC 8,Iloilo DC,SOC 8,GMA,SOL,GMA SOL,,456,57,57,65,114,228,83,,456,2,2,2,2,3,2,,59,59,67,116,231,85

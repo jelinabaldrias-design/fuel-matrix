@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Intra-Luzon Fuel Matrix</title>
+<title>Intra-Luzon Fuel Matrix Lookup</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@500;600&display=swap" rel="stylesheet">
@@ -125,8 +125,8 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
 </head>
 <body>
 <main>
-  <h1>Fuel Matrix</h1>
-  <p class="sub">Ilagay ang mga stop ayon sa pagkakasunod-sunod ng biyahe.</p>
+  <h1>Fuel Matrix Lookup</h1>
+  <p class="sub">Ilagay ang mga stop ayon sa pagkakasunod-sunod ng biyahe. Susumahin ang distansya at gasolina.</p>
 
   <div class="layout">
   <section class="panel" aria-label="Biyahe">
@@ -136,7 +136,7 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
     </div>
     <div id="stops"></div>
     <div class="actions">
-      <button type="button" class="btn primary" id="add">Add stop</button>
+      <button type="button" class="btn primary" id="add">Dagdag na stop</button>
       <button type="button" class="btn ghost" id="reset">Ulitin</button>
     </div>
   </section>
@@ -371,9 +371,9 @@ function update(){
   const rows=vehicles.map((v,x)=>'<tr><td>'+esc(v)+'</td><td class="n">'+fmt(tot[x])+' L</td></tr>').join("");
   html+='<div class="card '+cls+' totalcard" style="margin-top:0">'+
     '<div class="kmrow"><span>Kabuuang distansya ('+found+' leg)</span><div><b>'+fmt(km)+'</b><small>km</small></div></div>'+
-    '<table><thead><tr><th>Uri ng sasakyan</th><th class="n">Kabuuang diesel ('+(lease==="wet"?"wet lease":"dry lease")+')</th></tr></thead><tbody>'+rows+'</tbody></table></div>';
+    '<table><thead><tr><th>Uri ng sasakyan</th><th class="n">Kabuuang gasolina ('+(lease==="wet"?"wet lease":"dry lease")+')</th></tr></thead><tbody>'+rows+'</tbody></table></div>';
 
-  html+='<div class="actions" style="margin-top:10px"><button type="button" class="btn" id="copy">Kopyahin</button><span class="copied" id="copied"></span></div>';
+  html+='<div class="actions" style="margin-top:10px"><button type="button" class="btn" id="copy">Kopyahin ang buod</button><span class="copied" id="copied"></span></div>';
 
   html+='<section class="legs"><h2>Hati-hati ng biyahe</h2>';
   for(const L of legs){

@@ -1,0 +1,28 @@
+name: Sync Google Sheet
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download CSV from Google Sheet
+        run: |
+          curl -fsSL "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWSPPt8LJIWJgS2rNyUoga5OPJ9Jufw_hevddEWtTSK9niy3doRwqEUfxRGqSRVlh54-eNxNK7vpna/pub?gid=138681032&single=true&output=csv" -o sheet-data.csv.new
+          test "$(wc -l < sheet-data.csv.new)" -gt 100
+          mv sheet-data.csv.new sheet-data.csv
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add sheet-data.csv
+          git diff --cached --quiet || (git commit -m "Update sheet data" && git push)

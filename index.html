@@ -144,7 +144,7 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
   <div id="result" aria-live="polite"></div>
   </div>
   <p class="status" id="status" aria-live="polite"></p>
-  <p class="status" id="ver">Bersyon ng file: v5 (may "Dahilan" sa error)</p>
+  <p class="status" id="ver">Bersyon ng file: v6 (may "Dahilan" sa error)</p>
   <footer>Pinagmulan: Intra Luzon Fuel Matrix, sheet na drylease_matrix. Ang litro ay ayon sa matrix.</footer>
 </main>
 
@@ -221,19 +221,23 @@ async function tryUrl(url, label){
     const first=(rows[0]||[]).slice(0,4).map(x=>String(x).replace(/\s+/g," ").trim().slice(0,20)).join(" / ");
     throw new Error(label+": "+db.r.length+" route lang ang nabasa. Unang row: "+(first||"walang laman")+". Maaaring maling tab o nagbago ang column.");
   }
-  return db;
+  return {db, lm: resp.headers.get('last-modified')};
 }
 async function loadLive(){
-  const urls=[]; if(SHEET_CSV) urls.push([SHEET_CSV,"Publish link"]); if(SHEET_ALT) urls.push([SHEET_ALT,"Share link"]);
-  if(!urls.length){ setStatus("Naka-save na kopya mula sa Excel ("+BUILT_ON+"). Hindi pa nakakabit sa Google Sheet."); return; }
+  const urls=[
+    ["https://raw.githubusercontent.com/jelinabaldrias-design/fuel-matrix/main/sheet-data.csv?t="+Date.now(),"GitHub raw"],
+    ["sheet-data.csv?t="+Date.now(),"GitHub copy"]
+  ];
+  if(SHEET_CSV) urls.push([SHEET_CSV,"Publish link"]);
+  if(SHEET_ALT) urls.push([SHEET_ALT,"Share link"]);
   setStatus("Kinukuha ang pinakabagong data mula sa Google Sheet...");
   const errs=[];
   for(const [u,label] of urls){
     try{
-      const db=await tryUrl(u,label);
+      const {db,lm}=await tryUrl(u,label);
       setData(db); remap(); update();
       const now=new Date().toLocaleTimeString("en-PH",{hour:"numeric",minute:"2-digit"});
-      setStatus("Live mula sa Google Sheet: "+db.r.length.toLocaleString("en-US")+" route, na-load noong "+now+".");
+      setStatus("Data mula sa Google Sheet: "+db.r.length.toLocaleString("en-US")+" route, na-load noong "+now+" (source: "+label+").");
       return;
     }catch(e){ errs.push(e.message); }
   }

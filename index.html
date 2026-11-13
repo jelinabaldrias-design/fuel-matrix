@@ -122,7 +122,7 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
 .leg .err{color:var(--err);font-size:.9rem;margin-top:6px}
 .copied{font-size:.85rem;color:var(--muted);align-self:center}
 
-/* 3-column: Input | Total | Hati-hati ng biyahe (magkakatabi) */
+/* 3-column: Input | Total | Per leg (magkakatabi) */
 @media (min-width:980px){
   main{max-width:1600px}
   .layout{display:grid;grid-template-columns:minmax(280px,340px) minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:start}
@@ -135,7 +135,7 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
 </head>
 <body>
 <main>
-  <h1>Fuel Matrix Lookup</h1>
+  <h1>Fuel Matrix</h1>
   <p class="sub">Ilagay ang mga stop ayon sa pagkakasunod-sunod ng biyahe.</p>
 
   <div class="layout">
@@ -146,7 +146,7 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
     </div>
     <div id="stops"></div>
     <div class="actions">
-      <button type="button" class="btn primary" id="add">Dagdag na stop</button>
+      <button type="button" class="btn primary" id="add">Add na stop</button>
       <button type="button" class="btn ghost" id="reset">Ulitin</button>
     </div>
   </section>
@@ -154,8 +154,8 @@ footer{margin-top:8px;color:var(--muted);font-size:.8rem}
   <div id="result" aria-live="polite"></div>
   </div>
   <p class="status" id="status" aria-live="polite"></p>
-  <p class="status" id="ver">Bersyon ng file: v8 (3-column, magkakatabi)</p>
-  <footer>Pinagmulan: Intra Luzon Fuel Matrix, sheet na drylease_matrix. Ang litro ay ayon sa matrix.</footer>
+  <p class="status" id="ver">File: v8</p>
+  <footer>Reference: Intra Luzon Fuel Matrix, sheet name: drylease_matrix. Ang litro ay ayon sa matrix.</footer>
 </main>
 
 <script>

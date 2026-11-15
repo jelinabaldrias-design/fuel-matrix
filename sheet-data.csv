@@ -5932,7 +5932,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Cache WH 1Naic Hub,Cache WH 1,Naic Hub,GMA,SOL,GMA SOL,,50,6,6,7,13,25,9,,50,,,,,,,,6,6,7,13,25,9
 1,MFM GuiguintoSOC 9 Parking,MFM Guiguinto,SOC 9 Parking,GMA,NOL,GMA NOL,,15,2,2,2,4,8,3,,15,2,2,2,2,3,2,,4,4,4,6,11,5
 1,SOC 5 ParkingMFM Cabuyao,SOC 5 Parking,MFM Cabuyao,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
-1,MFM CabuyaoSOC 5,MFM Cabuyao,SOC 5,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
+1,MFM CabuyaoSOC 5,MFM Cabuyao,SOC 5,GMA,SOL,GMA SOL,,6,1,1,1,2,3,1,,6,2,2,2,2,3,2,,3,3,3,4,6,3
 1,MFM CabuyaoSOC 11,MFM Cabuyao,SOC 11,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
 1,MFM GuiguintoIM-Warehouse,MFM Guiguinto,IM-Warehouse,GMA,SOL,GMA SOL,,88,11,11,13,22,44,16,,88,,,,,,,,11,11,13,22,44,16
 1,San Felipe HubSOC 9 Parking,San Felipe Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,139,17,17,20,35,70,25,,139,2,2,2,2,3,2,,19,19,22,37,73,27
@@ -6480,7 +6480,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Pio Del Pilar HubSOC 5 Parking,Pio Del Pilar Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,43,5,5,6,11,22,8,,43,2,2,2,2,3,2,,7,7,8,13,25,10
 1,SOC 8Bucal Hub,SOC 8,Bucal Hub,GMA,SOL,GMA SOL,,11,1,1,2,3,6,2,,11,2,2,2,2,3,2,,3,3,4,5,9,4
 1,SOC 11Redgold Dark Store,SOC 11,Redgold Dark Store,GMA,SOL,GMA SOL,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
-1,Redgold Dark StoreMarikina Hub,Redgold Dark Store,Marikina Hub,MM,NCR,MM,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
+1,Redgold Dark StoreMarikina Hub,Redgold Dark Store,Marikina Hub,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,IM-WarehousePio Del Pilar Hub,IM-Warehouse,Pio Del Pilar Hub,MM,NCR,MM,,43,5,5,6,11,22,8,,43,,,,,,,,5,5,6,11,22,8
 1,Arnaiz Dark StorePasig Dark Store,Arnaiz Dark Store,Pasig Dark Store,MM,NCR,MM,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
 1,Pasig Dark StoreSan Juan Dark Store,Pasig Dark Store,San Juan Dark Store,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
@@ -6562,7 +6562,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Market-Santa Rosa HubMajada-Canlubang Hub,Market-Santa Rosa Hub,Majada-Canlubang Hub,GMA,SOL,GMA SOL,,20,3,3,3,5,10,4,,20,,,,,,,,3,3,3,5,10,4
 1,MFM PasigSOC 11,MFM Pasig,SOC 11,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
 1,MFM PulilanSOC 8,MFM Pulilan,SOC 8,GMA,SOL,GMA SOL,,93,12,12,13,23,47,17,,93,2,2,2,2,3,2,,14,14,15,25,50,19
-1, West Grace Park HubBasista Hub, West Grace Park Hub,Basista Hub,LUZ,NOL,FAR NOL,,#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),,#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),,,,,,,,#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' West Grace Park HubBasista Hub' in XLOOKUP evaluation.)
+1, West Grace Park HubBasista Hub, West Grace Park Hub,Basista Hub,LUZ,NOL,FAR NOL,,197,25,25,28,49,99,36,,197,,,,,,,,25,25,28,49,99,36
 1,OP Agoncillo Batangas HubTaal Hub,OP Agoncillo Batangas Hub,Taal Hub,LUZ,SOL,FAR SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
 1,OP Lemery Batangas HubLemery Hub,OP Lemery Batangas Hub,Lemery Hub,LUZ,SOL,FAR SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Sun Valley HubSOC 11,Sun Valley Hub,SOC 11,GMA,SOL,GMA SOL,,37,5,5,5,9,19,7,,37,2,2,2,2,3,2,,7,7,7,11,22,9
@@ -6576,11 +6576,11 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Hermosa HubSamal Hub,Hermosa Hub,Samal Hub,LUZ,NOL,FAR NOL,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Orion HubLimay Hub,Orion Hub,Limay Hub,LUZ,NOL,FAR NOL,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
 1,IM-WarehouseMolino Hub,IM-Warehouse,Molino Hub,GMA,SOL,GMA SOL,,37,5,5,5,9,19,7,,37,,,,,,,,5,5,5,9,19,7
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 5MFM Cabuyao,SOC 5,MFM Cabuyao,GMA,SOL,GMA SOL,,6,1,1,1,2,3,1,,6,2,2,2,2,3,2,,3,3,3,4,6,3
+1,Calumpang HubLucban Hub,Calumpang Hub,Lucban Hub,LUZ,SOL,FAR SOL,,19,2,2,3,5,10,3,,19,,,,,,,,2,2,3,5,10,3
+1,Marikina HubRedgold Dark Store,Marikina Hub,Redgold Dark Store,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
+1,Mercedes HubPasig Dark Store,Mercedes Hub,Pasig Dark Store,MM,NCR,MM,,3,0,0,0,1,2,1,,3,,,,,,,,0,0,0,1,2,1
+1,Pasig Dark StoreSOC 5 Parking,Pasig Dark Store,SOC 5 Parking,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

@@ -6596,7 +6596,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,OP Pinagsama Taguig HubSOC 8,OP Pinagsama Taguig Hub,SOC 8,GMA,SOL,GMA SOL,,36,5,5,5,9,18,7,,36,2,2,2,2,3,2,,7,7,7,11,21,9
 1,Hermosa HubSamal Hub,Hermosa Hub,Samal Hub,LUZ,NOL,FAR NOL,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Orion HubLimay Hub,Orion Hub,Limay Hub,LUZ,NOL,FAR NOL,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,IM-WarehouseMolino Hub,IM-Warehouse,Molino Hub,GMA,SOL,GMA SOL,,37,5,5,5,9,19,7,,37,,,,,,,,5,5,5,9,19,7
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

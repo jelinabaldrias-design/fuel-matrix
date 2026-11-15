@@ -365,7 +365,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Lemery HubBalayan Hub,Lemery Hub,Balayan Hub,LUZ,SOL,FAR SOL,,21,3,3,3,5,11,4,,21,,,,,,,,3,3,3,5,11,4
 1,Balayan HubNasugbu Hub,Balayan Hub,Nasugbu Hub,LUZ,SOL,FAR SOL,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Sabang HubLipa Hub,Sabang Hub,Lipa Hub,LUZ,SOL,FAR SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
-1,Padre GaDCia HubBatangas-San Juan Hub,Padre GaDCia Hub,Batangas-San Juan Hub,LUZ,SOL,FAR SOL,,26,3,3,4,7,13,5,,26,,,,,,,,3,3,4,7,13,5
+1,Padre Garcia HubBatangas-San Juan Hub,Padre Garcia Hub,Batangas-San Juan Hub,LUZ,SOL,FAR SOL,,26,3,3,4,7,13,5,,26,,,,,,,,3,3,4,7,13,5
 1,North East Caloocan HubTala Hub,North East Caloocan Hub,Tala Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,SOC 5Kalawaan Hub,SOC 5,Kalawaan Hub,MM,NCR,MM,,45,6,6,6,11,23,8,,45,2,2,2,2,3,2,,8,8,8,13,26,10
 1,Kalawaan HubPasig Hub,Kalawaan Hub,Pasig Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
@@ -518,8 +518,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Caybiga HubNorthwest Caloocan Hub,Caybiga Hub,Northwest Caloocan Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Trece Martires HubNorth Tanza Hub,Trece Martires Hub,North Tanza Hub,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,North Tanza HubSOC 5,North Tanza Hub,SOC 5,GMA,SOL,GMA SOL,,50,6,6,7,13,25,9,,50,2,2,2,2,3,2,,8,8,9,15,28,11
-1,Mulanay HubSan NaDCiso Hub,Mulanay Hub,San NaDCiso Hub,,,,,28,4,4,4,7,14,5,,28,,,,,,,,4,4,4,7,14,5
-1,San NaDCiso HubSOC 5,San NaDCiso Hub,SOC 5,GMA,SOL,GMA SOL,,226,28,28,32,57,113,41,,226,2,2,2,2,3,2,,30,30,34,59,116,43
+1,Mulanay HubSan Narciso Hub,Mulanay Hub,San Narciso Hub,LUZ,SOL,FAR SOL,,28,4,4,4,7,14,5,,28,,,,,,,,4,4,4,7,14,5
+1,San Narciso HubSOC 5,San Narciso Hub,SOC 5,GMA,SOL,GMA SOL,,226,28,28,32,57,113,41,,226,2,2,2,2,3,2,,30,30,34,59,116,43
 1,Sabang HubTanauan Hub,Sabang Hub,Tanauan Hub,LUZ,SOL,FAR SOL,,17,2,2,2,4,9,3,,17,,,,,,,,2,2,2,4,9,3
 1,Del Monte Ave HubBalingasa Hub,Del Monte Ave Hub,Balingasa Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,San Juan HubReliance Hub,San Juan Hub,Reliance Hub,MM,NCR,MM,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
@@ -572,8 +572,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Mid QC HubPayatas Hub,Mid QC Hub,Payatas Hub,MM,NCR,MM,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
 1,Payatas HubBatasan Hub,Payatas Hub,Batasan Hub,GMA,NCR,MM/GMA,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Batasan HubSOC 5,Batasan Hub,SOC 5,GMA,SOL,GMA SOL,,66,8,8,9,17,33,12,,66,2,2,2,2,3,2,,10,10,11,19,36,14
-1,Paranaque HubMaDCelo Green Hub,Paranaque Hub,MaDCelo Green Hub,,,,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-1,MaDCelo Green HubPasay Hub,MaDCelo Green Hub,Pasay Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
+1,Paranaque HubMarcelo Green Hub,Paranaque Hub,Marcelo Green Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Marcelo Green HubPasay Hub,Marcelo Green Hub,Pasay Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
 1,Holy Spirit HubPayatas Hub,Holy Spirit Hub,Payatas Hub,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,Paliparan HubDasmarinas Hub,Paliparan Hub,Dasmarinas Hub,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,MINI Hub Felix AveAmang Rodriguez Hub,MINI Hub Felix Ave,Amang Rodriguez Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
@@ -588,15 +588,15 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5Liliw Hub,SOC 5,Liliw Hub,GMA,SOL,GMA SOL,,44,6,6,6,11,22,8,,44,2,2,2,2,3,2,,8,8,8,13,25,10
 1,Liliw HubSOC 5,Liliw Hub,SOC 5,GMA,SOL,GMA SOL,,44,6,6,6,11,22,8,,44,2,2,2,2,3,2,,8,8,8,13,25,10
 1,Nagcarlan HubLiliw Hub,Nagcarlan Hub,Liliw Hub,GMA,SOL,GMA SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
-1,SOC 5San NaDCiso Hub,SOC 5,San NaDCiso Hub,,,,,226,28,28,32,57,113,41,,226,2,2,2,2,3,2,,30,30,34,59,116,43
-1,San NaDCiso HubMulanay Hub,San NaDCiso Hub,Mulanay Hub,LUZ,SOL,FAR SOL,,28,4,4,4,7,14,5,,28,,,,,,,,4,4,4,7,14,5
+2,SOC 5San Narciso Hub,SOC 5,San Narciso Hub,LUZ,SOL,FAR SOL,,226,28,28,32,57,113,41,,226,2,2,2,2,3,2,,30,30,34,59,116,43
+1,San Narciso HubMulanay Hub,San Narciso Hub,Mulanay Hub,LUZ,SOL,FAR SOL,,28,4,4,4,7,14,5,,28,,,,,,,,4,4,4,7,14,5
 1,Mulanay HubPagbilao Hub,Mulanay Hub,Pagbilao Hub,LUZ,SOL,FAR SOL,,118,15,15,17,30,59,21,,118,,,,,,,,15,15,17,30,59,21
 1,Daanghari Navotas HubSOC 5,Daanghari Navotas Hub,SOC 5,GMA,SOL,GMA SOL,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
 1,SOC 5Pila Hub,SOC 5,Pila Hub,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,Pila HubSanta Cruz Hub,Pila Hub,Santa Cruz Hub,GMA,SOL,GMA SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
 1,Nasugbu HubLemery Hub,Nasugbu Hub,Lemery Hub,LUZ,SOL,FAR SOL,,36,5,5,5,9,18,7,,36,,,,,,,,5,5,5,9,18,7
 1,Paranaque HubDasa Hub,Paranaque Hub,Dasa Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-1,Dasa HubMaDCelo Green Hub,Dasa Hub,MaDCelo Green Hub,,,,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Dasa HubMarcelo Green Hub,Dasa Hub,Marcelo Green Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Santa Elena HubTagkawayan Hub,Santa Elena Hub,Tagkawayan Hub,LUZ,SOL,FAR SOL,,41,5,5,6,10,21,7,,41,,,,,,,,5,5,6,10,21,7
 1,Navotas HubDaanghari Navotas Hub,Navotas Hub,Daanghari Navotas Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Bagumbong HubSOC 5,Bagumbong Hub,SOC 5,GMA,SOL,GMA SOL,,75,9,9,11,19,38,14,,75,2,2,2,2,3,2,,11,11,13,21,41,16
@@ -604,8 +604,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Atimonan HubSOC 5,Atimonan Hub,SOC 5,GMA,SOL,GMA SOL,,123,15,15,18,31,62,22,,123,2,2,2,2,3,2,,17,17,20,33,65,24
 1,Tinajeros HubSOC 5,Tinajeros Hub,SOC 5,GMA,SOL,GMA SOL,,64,8,8,9,16,32,12,,64,2,2,2,2,3,2,,10,10,11,18,35,14
 1,SOC 5North Tanza Hub,SOC 5,North Tanza Hub,GMA,SOL,GMA SOL,,50,6,6,7,13,25,9,,50,2,2,2,2,3,2,,8,8,9,15,28,11
-1,SOC 5MaDCelo Green Hub,SOC 5,MaDCelo Green Hub,,,,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
-1,MaDCelo Green HubSOC 5,MaDCelo Green Hub,SOC 5,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
+1,SOC 5Marcelo Green Hub,SOC 5,Marcelo Green Hub,MM,NCR,MM,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
+1,Marcelo Green HubSOC 5,Marcelo Green Hub,SOC 5,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
 1,SOC 5Dasa Hub,SOC 5,Dasa Hub,MM,NCR,MM,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,Dasa HubSOC 5,Dasa Hub,SOC 5,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,MINI Hub LavezaresJaboneros Hub,MINI Hub Lavezares,Jaboneros Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
@@ -616,8 +616,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Pasig HubBambang Pasig Hub,Pasig Hub,Bambang Pasig Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Bambang Pasig HubSOC 5,Bambang Pasig Hub,SOC 5,GMA,SOL,GMA SOL,,46,6,6,7,12,23,8,,46,2,2,2,2,3,2,,8,8,9,14,26,10
 1,Pagbilao HubAtimonan Hub,Pagbilao Hub,Atimonan Hub,LUZ,SOL,FAR SOL,,24,3,3,3,6,12,4,,24,,,,,,,,3,3,3,6,12,4
-1,Gumaca HubSan NaDCiso Hub,Gumaca Hub,San NaDCiso Hub,,,,,75,9,9,11,19,38,14,,75,,,,,,,,9,9,11,19,38,14
-1,MaDCelo Green HubDasa Hub,MaDCelo Green Hub,Dasa Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Gumaca HubSan Narciso Hub,Gumaca Hub,San Narciso Hub,LUZ,SOL,FAR SOL,,75,9,9,11,19,38,14,,75,,,,,,,,9,9,11,19,38,14
+1,Marcelo Green HubDasa Hub,Marcelo Green Hub,Dasa Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Dasa HubPasay Hub,Dasa Hub,Pasay Hub,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,Pasig-Rosario HubAmang Rodriguez Hub,Pasig-Rosario Hub,Amang Rodriguez Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Pila HubSOC 5,Pila Hub,SOC 5,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
@@ -629,11 +629,11 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Candelaria HubMFM Laguna,Candelaria Hub,MFM Laguna,GMA,SOL,GMA SOL,,79,10,10,11,20,40,14,,79,,,,,,,,10,10,11,20,40,14
 1,MFM LagunaSOC 5,MFM Laguna,SOC 5,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
 1,Tiaong HubMFM Laguna,Tiaong Hub,MFM Laguna,GMA,SOL,GMA SOL,,68,9,9,10,17,34,12,,68,,,,,,,,9,9,10,17,34,12
-1,Padre GaDCia HubMFM Laguna,Padre GaDCia Hub,MFM Laguna,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,,,,,,,,6,6,7,12,24,9
+1,Padre Garcia HubMFM Laguna,Padre Garcia Hub,MFM Laguna,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,,,,,,,,6,6,7,12,24,9
 1,Pallocan HubBatangas-Bolbok Hub,Pallocan Hub,Batangas-Bolbok Hub,LUZ,SOL,FAR SOL,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,Batangas-Bolbok HubMFM Laguna,Batangas-Bolbok Hub,MFM Laguna,GMA,SOL,GMA SOL,,58,7,7,8,15,29,11,,58,,,,,,,,7,7,8,15,29,11
 1,Lucban HubMFM Laguna,Lucban Hub,MFM Laguna,GMA,SOL,GMA SOL,,81,10,10,12,20,41,15,,81,,,,,,,,10,10,12,20,41,15
-1,San NaDCiso HubGumaca Hub,San NaDCiso Hub,Gumaca Hub,LUZ,SOL,FAR SOL,,75,9,9,11,19,38,14,,75,,,,,,,,9,9,11,19,38,14
+1,San Narciso HubGumaca Hub,San Narciso Hub,Gumaca Hub,LUZ,SOL,FAR SOL,,75,9,9,11,19,38,14,,75,,,,,,,,9,9,11,19,38,14
 1,Gumaca HubMFM Laguna,Gumaca Hub,MFM Laguna,GMA,SOL,GMA SOL,,168,21,21,24,42,84,31,,168,,,,,,,,21,21,24,42,84,31
 1,Batangas-San Juan HubCandelaria Hub,Batangas-San Juan Hub,Candelaria Hub,LUZ,SOL,FAR SOL,,15,2,2,2,4,8,3,,15,,,,,,,,2,2,2,4,8,3
 1,Batangas-San Juan HubMFM Laguna,Batangas-San Juan Hub,MFM Laguna,GMA,SOL,GMA SOL,,71,9,9,10,18,36,13,,71,,,,,,,,9,9,10,18,36,13
@@ -643,7 +643,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5Bambang Pasig Hub,SOC 5,Bambang Pasig Hub,MM,NCR,MM,,46,6,6,7,12,23,8,,46,2,2,2,2,3,2,,8,8,9,14,26,10
 1,Bambang Pasig HubPasig Hub,Bambang Pasig Hub,Pasig Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Mauban HubMFM Laguna,Mauban Hub,MFM Laguna,GMA,SOL,GMA SOL,,101,13,13,14,25,51,18,,101,,,,,,,,13,13,14,25,51,18
-1,Padre GaDCia HubBatangas Hub,Padre GaDCia Hub,Batangas Hub,LUZ,SOL,FAR SOL,,24,3,3,3,6,12,4,,24,,,,,,,,3,3,3,6,12,4
+1,Padre Garcia HubBatangas Hub,Padre Garcia Hub,Batangas Hub,LUZ,SOL,FAR SOL,,24,3,3,3,6,12,4,,24,,,,,,,,3,3,3,6,12,4
 1,Bacoor HubCavite Hub,Bacoor Hub,Cavite Hub,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,Canlubang HubSanta Rosa Hub,Canlubang Hub,Santa Rosa Hub,GMA,SOL,GMA SOL,,9,1,1,1,2,5,2,,9,,,,,,,,1,1,1,2,5,2
 1,Lubao HubSOC 5,Lubao Hub,SOC 5,GMA,SOL,GMA SOL,,139,17,17,20,35,70,25,,139,2,2,2,2,3,2,,19,19,22,37,73,27
@@ -702,7 +702,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Santa Elena HubMFM Laguna,Santa Elena Hub,MFM Laguna,GMA,SOL,GMA SOL,,228,29,29,33,57,114,41,,228,,,,,,,,29,29,33,57,114,41
 1,Sirang Lupa HubMFM Laguna,Sirang Lupa Hub,MFM Laguna,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Liliw HubMFM Laguna,Liliw Hub,MFM Laguna,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,,,,,,,,6,6,7,12,24,9
-1,San NaDCiso HubMFM Laguna,San NaDCiso Hub,MFM Laguna,GMA,SOL,GMA SOL,,243,30,30,35,61,122,44,,243,,,,,,,,30,30,35,61,122,44
+1,San Narciso HubMFM Laguna,San Narciso Hub,MFM Laguna,GMA,SOL,GMA SOL,,243,30,30,35,61,122,44,,243,,,,,,,,30,30,35,61,122,44
 1,Talisay Batangas HubMalvar Hub,Talisay Batangas Hub,Malvar Hub,LUZ,SOL,FAR SOL,,16,2,2,2,4,8,3,,16,,,,,,,,2,2,2,4,8,3
 1,Santa Cruz HubPila Hub,Santa Cruz Hub,Pila Hub,GMA,SOL,GMA SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
 1,Mulanay HubAgdangan Hub,Mulanay Hub,Agdangan Hub,LUZ,SOL,FAR SOL,,85,11,11,12,21,43,15,,85,,,,,,,,11,11,12,21,43,15
@@ -763,9 +763,9 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5PODIUM WH (People Team),SOC 5,PODIUM WH (People Team),MM,NCR,MM,,49,6,6,7,12,25,9,,49,2,2,2,2,3,2,,8,8,9,14,28,11
 1,PODIUM WH (People Team)SOC 5,PODIUM WH (People Team),SOC 5,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,2,2,2,2,3,2,,8,8,9,14,28,11
 1,Antipolo HubBaras Hub,Antipolo Hub,Baras Hub,GMA,NCR,MM/GMA,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
-1,San NaDCiso HubSan Andres Hub,San NaDCiso Hub,San Andres Hub,LUZ,SOL,FAR SOL,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
+1,San Narciso HubSan Andres Hub,San Narciso Hub,San Andres Hub,LUZ,SOL,FAR SOL,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
 1,San Andres HubSOC 5,San Andres Hub,SOC 5,GMA,SOL,GMA SOL,,257,32,32,37,64,129,47,,257,2,2,2,2,3,2,,34,34,39,66,132,49
-1,San Andres HubSan NaDCiso Hub,San Andres Hub,San NaDCiso Hub,,,,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
+1,San Andres HubSan Narciso Hub,San Andres Hub,San Narciso Hub,LUZ,SOL,FAR SOL,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
 1,Alfonso HubLemery Hub,Alfonso Hub,Lemery Hub,LUZ,SOL,FAR SOL,,33,4,4,5,8,17,6,,33,,,,,,,,4,4,5,8,17,6
 1,Taal HubSOC 5 Parking,Taal Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,63,8,8,9,16,32,11,,63,2,2,2,2,3,2,,10,10,11,18,35,13
 1,Taal HubAmadeo Hub,Taal Hub,Amadeo Hub,GMA,SOL,GMA SOL,,52,7,7,7,13,26,9,,52,,,,,,,,7,7,7,13,26,9
@@ -907,7 +907,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,North East Caloocan HubSOC 5 Parking,North East Caloocan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,74,9,9,11,19,37,13,,74,2,2,2,2,3,2,,11,11,13,21,40,15
 1,Northwest Caloocan HubSOC 5 Parking,Northwest Caloocan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,70,9,9,10,18,35,13,,70,2,2,2,2,3,2,,11,11,12,20,38,15
 1,Noveleta HubSOC 5 Parking,Noveleta Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,50,6,6,7,13,25,9,,50,2,2,2,2,3,2,,8,8,9,15,28,11
-1,Padre GaDCia HubSOC 5 Parking,Padre GaDCia Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
+1,Padre Garcia HubSOC 5 Parking,Padre Garcia Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
 1,Pagbilao HubSOC 5 Parking,Pagbilao Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,100,13,13,14,25,50,18,,100,2,2,2,2,3,2,,15,15,16,27,53,20
 1,Pagsanjan HubSOC 5 Parking,Pagsanjan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,43,5,5,6,11,22,8,,43,2,2,2,2,3,2,,7,7,8,13,25,10
 1,Pakil HubSOC 5 Parking,Pakil Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,58,7,7,8,15,29,11,,58,2,2,2,2,3,2,,9,9,10,17,32,13
@@ -973,7 +973,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Muntinlupa HubSOC 5 Parking,Muntinlupa Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,MINI Hub Felix AveSOC 5 Parking,MINI Hub Felix Ave,SOC 5 Parking,GMA,SOL,GMA SOL,,52,7,7,7,13,26,9,,52,2,2,2,2,3,2,,9,9,9,15,29,11
 1,North Tanza HubSOC 5 Parking,North Tanza Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
-1,San NaDCiso HubSOC 5 Parking,San NaDCiso Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
+1,San Narciso HubSOC 5 Parking,San Narciso Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
 1,Cupang HubSOC 5 Parking,Cupang Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,Mid QC HubSOC 5 Parking,Mid QC Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,64,8,8,9,16,32,12,,64,2,2,2,2,3,2,,10,10,11,18,35,14
 1,Santa Lucia HubSOC 5 Parking,Santa Lucia Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,120,15,15,17,30,60,22,,120,2,2,2,2,3,2,,17,17,19,32,63,24
@@ -1027,7 +1027,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,West QC HubTandang Sora Hub,West QC Hub,Tandang Sora Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Tandang Sora HubWest QC Hub,Tandang Sora Hub,West QC Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,West QC HubIM-Warehouse,West QC Hub,IM-Warehouse,GMA,SOL,GMA SOL,,63,8,8,9,16,32,11,,63,,,,,,,,8,8,9,16,32,11
-1,Padre GaDCia HubBatangas San Rafael Hub,Padre GaDCia Hub,Batangas San Rafael Hub,LUZ,SOL,FAR SOL,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
+1,Padre Garcia HubBatangas San Rafael Hub,Padre Garcia Hub,Batangas San Rafael Hub,LUZ,SOL,FAR SOL,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
 1,Salitran HubDasmarinas Hub,Salitran Hub,Dasmarinas Hub,GMA,SOL,GMA SOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
 1,Lopez HubSOC 5 Parking,Lopez Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,168,21,21,24,42,84,31,,168,2,2,2,2,3,2,,23,23,26,44,87,33
 1,Cache WH 1SOC 5 Parking,Cache WH 1,SOC 5 Parking,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
@@ -1232,7 +1232,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 8Noveleta Hub,SOC 8,Noveleta Hub,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 1,Noveleta HubSOC 8,Noveleta Hub,SOC 8,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 1,Obando HubSOC 8,Obando Hub,SOC 8,GMA,SOL,GMA SOL,,66,8,8,9,17,33,12,,66,2,2,2,2,3,2,,10,10,11,19,36,14
-1,Padre GaDCia HubSOC 8,Padre GaDCia Hub,SOC 8,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,2,2,2,2,3,2,,8,8,9,14,28,11
+1,Padre Garcia HubSOC 8,Padre Garcia Hub,SOC 8,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,2,2,2,2,3,2,,8,8,9,14,28,11
 1,SOC 8Pagbilao Hub,SOC 8,Pagbilao Hub,LUZ,SOL,FAR SOL,,102,13,13,15,26,51,19,,102,2,2,2,2,3,2,,15,15,17,28,54,21
 1,SOC 8Pagsanjan Hub,SOC 8,Pagsanjan Hub,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 1,Pagsanjan HubSOC 8,Pagsanjan Hub,SOC 8,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
@@ -1366,7 +1366,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Trece Martires HubGeneral Trias Hub,Trece Martires Hub,General Trias Hub,GMA,SOL,GMA SOL,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
 1,Pasig-Rosario HubCainta Hub,Pasig-Rosario Hub,Cainta Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Tunasan HubParanaque Hub,Tunasan Hub,Paranaque Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
-1,MaDCelo Green HubSOC 8,MaDCelo Green Hub,SOC 8,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
+1,Marcelo Green HubSOC 8,Marcelo Green Hub,SOC 8,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,Caybiga HubCanumay East Hub,Caybiga Hub,Canumay East Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Canumay East HubNorthwest Caloocan Hub,Canumay East Hub,Northwest Caloocan Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,East QC HubCaloocan Hub,East QC Hub,Caloocan Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
@@ -1411,11 +1411,11 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Holy Spirit HubRodriguez Hub,Holy Spirit Hub,Rodriguez Hub,GMA,NCR,MM/GMA,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Malabon HubCamanava Hub,Malabon Hub,Camanava Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Camanava HubCaloocan Hub,Camanava Hub,Caloocan Hub,MM,NCR,MM,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
-1,Tunasan HubMaDCelo Green Hub,Tunasan Hub,MaDCelo Green Hub,,,,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
+1,Tunasan HubMarcelo Green Hub,Tunasan Hub,Marcelo Green Hub,MM,NCR,MM,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
 1,Muntinlupa HubCupang Hub,Muntinlupa Hub,Cupang Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Cupang HubParanaque Hub,Cupang Hub,Paranaque Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Calzada Taguig HubFTI Hub,Calzada Taguig Hub,FTI Hub,MM,NCR,MM,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
-1,Cupang HubMaDCelo Green Hub,Cupang Hub,MaDCelo Green Hub,,,,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
+1,Cupang HubMarcelo Green Hub,Cupang Hub,Marcelo Green Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Sta Maria HubSOC 6,Sta Maria Hub,SOC 6,GMA,NOL,GMA NOL,,20,3,3,3,5,10,4,,20,2,2,2,2,3,2,,5,5,5,7,13,6
 1,Pandi HubSOC 6,Pandi Hub,SOC 6,GMA,NOL,GMA NOL,,29,4,4,4,7,15,5,,29,2,2,2,2,3,2,,6,6,6,9,18,7
 1,East QC HubSOC 6,East QC Hub,SOC 6,GMA,NOL,GMA NOL,,17,2,2,2,4,9,3,,17,2,2,2,2,3,2,,4,4,4,6,12,5
@@ -1438,13 +1438,13 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Tunasan HubDasa Hub,Tunasan Hub,Dasa Hub,MM,NCR,MM,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
 1,Santa Maria-Mahabang Parang HubMarilao Hub,Santa Maria-Mahabang Parang Hub,Marilao Hub,GMA,NOL,GMA NOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Canlalay HubCalabuso Hub,Canlalay Hub,Calabuso Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-1,SOC 8MaDCelo Green Hub,SOC 8,MaDCelo Green Hub,,,,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
+1,SOC 8Marcelo Green Hub,SOC 8,Marcelo Green Hub,MM,NCR,MM,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,San Isidro HubSanta Rosa Hub,San Isidro Hub,Santa Rosa Hub,GMA,SOL,GMA SOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
 1,Santa Rosa HubCabuyao Hub,Santa Rosa Hub,Cabuyao Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Cabuyao HubBalibago Hub,Cabuyao Hub,Balibago Hub,GMA,SOL,GMA SOL,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Pallocan HubSOC 8,Pallocan Hub,SOC 8,GMA,SOL,GMA SOL,,63,8,8,9,16,32,11,,63,2,2,2,2,3,2,,10,10,11,18,35,13
 1,Cupang HubLas Pinas Hub,Cupang Hub,Las Pinas Hub,MM,NCR,MM,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
-1,Padre GaDCia HubLemery Hub,Padre GaDCia Hub,Lemery Hub,LUZ,SOL,FAR SOL,,45,6,6,6,11,23,8,,45,,,,,,,,6,6,6,11,23,8
+1,Padre Garcia HubLemery Hub,Padre Garcia Hub,Lemery Hub,LUZ,SOL,FAR SOL,,45,6,6,6,11,23,8,,45,,,,,,,,6,6,6,11,23,8
 1,Taal HubSOC 8,Taal Hub,SOC 8,GMA,SOL,GMA SOL,,65,8,8,9,16,33,12,,65,2,2,2,2,3,2,,10,10,11,18,36,14
 1,SOC 8M Lozada Hub,SOC 8,M Lozada Hub,MM,NCR,MM,,43,5,5,6,11,22,8,,43,2,2,2,2,3,2,,7,7,8,13,25,10
 1,M Lozada HubSOC 8,M Lozada Hub,SOC 8,GMA,SOL,GMA SOL,,43,5,5,6,11,22,8,,43,2,2,2,2,3,2,,7,7,8,13,25,10
@@ -1494,7 +1494,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Cupang HubAlmanza Uno Hub,Cupang Hub,Almanza Uno Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Dasa HubBF Homes Hub,Dasa Hub,BF Homes Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,BF Homes HubSOC 8,BF Homes Hub,SOC 8,GMA,SOL,GMA SOL,,29,4,4,4,7,15,5,,29,2,2,2,2,3,2,,6,6,6,9,18,7
-1,MaDCelo Green HubSun Valley Hub,MaDCelo Green Hub,Sun Valley Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
+1,Marcelo Green HubSun Valley Hub,Marcelo Green Hub,Sun Valley Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Sun Valley HubSOC 8,Sun Valley Hub,SOC 8,GMA,SOL,GMA SOL,,34,4,4,5,9,17,6,,34,2,2,2,2,3,2,,6,6,7,11,20,8
 1,SOC 8Sun Valley Hub,SOC 8,Sun Valley Hub,MM,NCR,MM,,34,4,4,5,9,17,6,,34,2,2,2,2,3,2,,6,6,7,11,20,8
 1,SOC 8 ParkingCanlalay Hub,SOC 8 Parking,Canlalay Hub,GMA,SOL,GMA SOL,,17,2,2,2,4,9,3,,17,2,2,2,2,3,2,,4,4,4,6,12,5
@@ -1550,7 +1550,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Dimasalang HubSOC 8 Parking,Dimasalang Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,42,5,5,6,11,21,8,,42,2,2,2,2,3,2,,7,7,8,13,24,10
 1,OP Calzada Taguig HubSOC 8 Parking,OP Calzada Taguig Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,40,5,5,6,10,20,7,,40,2,2,2,2,3,2,,7,7,8,12,23,9
 1,CAA HubSOC 8 Parking,CAA Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,31,4,4,4,8,16,6,,31,2,2,2,2,3,2,,6,6,6,10,19,8
-1,MaDCelo Green HubSOC 8 Parking,MaDCelo Green Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,29,4,4,4,7,15,5,,29,2,2,2,2,3,2,,6,6,6,9,18,7
+1,Marcelo Green HubSOC 8 Parking,Marcelo Green Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,Upper Marikina HubSOC 8 Parking,Upper Marikina Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,58,7,7,8,15,29,11,,58,2,2,2,2,3,2,,9,9,10,17,32,13
 1,Canlalay HubSOC 8 Parking,Canlalay Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,17,2,2,2,4,9,3,,17,2,2,2,2,3,2,,4,4,4,6,12,5
 1,Cache WH 1SOC 8 Parking,Cache WH 1,SOC 8 Parking,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
@@ -1925,7 +1925,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 6Pagsanjan Hub,SOC 6,Pagsanjan Hub,GMA,SOL,GMA SOL,,115,14,14,16,29,58,21,,115,2,2,2,2,3,2,,16,16,18,31,61,23
 1,Pagsanjan HubSanta Cruz Hub,Pagsanjan Hub,Santa Cruz Hub,GMA,SOL,GMA SOL,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,SOC 6Sabang Hub,SOC 6,Sabang Hub,LUZ,SOL,FAR SOL,,105,13,13,15,26,53,19,,105,2,2,2,2,3,2,,15,15,17,28,56,21
-1,Padre GaDCia HubSOC 6,Padre GaDCia Hub,SOC 6,GMA,NOL,GMA NOL,,118,15,15,17,30,59,21,,118,2,2,2,2,3,2,,17,17,19,32,62,23
+1,Padre Garcia HubSOC 6,Padre Garcia Hub,SOC 6,GMA,NOL,GMA NOL,,118,15,15,17,30,59,21,,118,2,2,2,2,3,2,,17,17,19,32,62,23
 1,Sta Maria HubPandi Hub,Sta Maria Hub,Pandi Hub,GMA,NOL,GMA NOL,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Cupang HubSan Pedro Hub,Cupang Hub,San Pedro Hub,GMA,SOL,GMA SOL,,10,1,1,1,3,5,2,,10,,,,,,,,1,1,1,3,5,2
 1,San Fernando-Dolores HubSOC 6,San Fernando-Dolores Hub,SOC 6,GMA,NOL,GMA NOL,,53,7,7,8,13,27,10,,53,2,2,2,2,3,2,,9,9,10,15,30,12
@@ -1937,7 +1937,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 6Calumpit Hub,SOC 6,Calumpit Hub,GMA,NOL,GMA NOL,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
 1,Calumpit HubApalit Hub,Calumpit Hub,Apalit Hub,LUZ,NOL,FAR NOL,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
 1,Bacolor HubSOC 6,Bacolor Hub,SOC 6,GMA,NOL,GMA NOL,,58,7,7,8,15,29,11,,58,2,2,2,2,3,2,,9,9,10,17,32,13
-1,SOC 6MaDCelo Green Hub,SOC 6,MaDCelo Green Hub,,,,,43,5,5,6,11,22,8,,43,2,2,2,2,3,2,,7,7,8,13,25,10
+1,SOC 6Marcelo Green Hub,SOC 6,Marcelo Green Hub,MM,NCR,MM,,43,5,5,6,11,22,8,,43,2,2,2,2,3,2,,7,7,8,13,25,10
 1,General Trias HubBiclatan Hub,General Trias Hub,Biclatan Hub,GMA,SOL,GMA SOL,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
 1,Biclatan HubAmadeo Hub,Biclatan Hub,Amadeo Hub,GMA,SOL,GMA SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
 1,Amadeo HubSOC 6,Amadeo Hub,SOC 6,GMA,NOL,GMA NOL,,90,11,11,13,23,45,16,,90,2,2,2,2,3,2,,13,13,15,25,48,18
@@ -3890,10 +3890,10 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Magalang HubMabalacat Hub,Magalang Hub,Mabalacat Hub,LUZ,NOL,FAR NOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
 1,San Simon HubSOC 4,San Simon Hub,SOC 4,GMA,NOL,GMA NOL,,29,4,4,4,7,15,5,,29,2,2,2,2,3,2,,6,6,6,9,18,7
 1,Amang Rodriguez HubSOC 4,Amang Rodriguez Hub,SOC 4,GMA,NOL,GMA NOL,,42,5,5,6,11,21,8,,42,2,2,2,2,3,2,,7,7,8,13,24,10
-1,Pasay HubMaDCelo Green Hub,Pasay Hub,MaDCelo Green Hub,,,,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
-1,MaDCelo Green HubParanaque Hub,MaDCelo Green Hub,Paranaque Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-1,SOC 4MaDCelo Green Hub,SOC 4,MaDCelo Green Hub,,,,,55,7,7,8,14,28,10,,55,2,2,2,2,3,2,,9,9,10,16,31,12
-1,MaDCelo Green HubSOC 4,MaDCelo Green Hub,SOC 4,GMA,NOL,GMA NOL,,55,7,7,8,14,28,10,,55,2,2,2,2,3,2,,9,9,10,16,31,12
+1,Pasay HubMarcelo Green Hub,Pasay Hub,Marcelo Green Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
+1,Marcelo Green HubParanaque Hub,Marcelo Green Hub,Paranaque Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,SOC 4Marcelo Green Hub,SOC 4,Marcelo Green Hub,MM,NCR,MM,,55,7,7,8,14,28,10,,55,2,2,2,2,3,2,,9,9,10,16,31,12
+1,Marcelo Green HubSOC 4,Marcelo Green Hub,SOC 4,GMA,NOL,GMA NOL,,55,7,7,8,14,28,10,,55,2,2,2,2,3,2,,9,9,10,16,31,12
 1,SOC 4Cupang Hub,SOC 4,Cupang Hub,MM,NCR,MM,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
 1,Pilar HubMorong-Bataan Hub,Pilar Hub,Morong-Bataan Hub,LUZ,NOL,FAR NOL,,45,6,6,6,11,23,8,,45,,,,,,,,6,6,6,11,23,8
 1,SOC 4Caybiga Hub,SOC 4,Caybiga Hub,MM,NCR,MM,,25,3,3,4,6,13,5,,25,2,2,2,2,3,2,,5,5,6,8,16,7
@@ -4161,7 +4161,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Nasugbu HubMFM Guiguinto,Nasugbu Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,148,19,19,21,37,74,27,,148,,,,,,,,19,19,21,37,74,27
 1,Infanta HubMFM Guiguinto,Infanta Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,159,20,20,23,40,80,29,,159,,,,,,,,20,20,23,40,80,29
 1,Batangas-San Juan HubMFM Guiguinto,Batangas-San Juan Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,156,20,20,22,39,78,28,,156,,,,,,,,20,20,22,39,78,28
-1,Padre GaDCia HubMFM Guiguinto,Padre GaDCia Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,131,16,16,19,33,66,24,,131,,,,,,,,16,16,19,33,66,24
+1,Padre Garcia HubMFM Guiguinto,Padre Garcia Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,131,16,16,19,33,66,24,,131,,,,,,,,16,16,19,33,66,24
 1,San Fernando-Dolores HubMFM Guiguinto,San Fernando-Dolores Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
 1,Bacolor HubMFM Guiguinto,Bacolor Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,37,5,5,5,9,19,7,,37,,,,,,,,5,5,5,9,19,7
 1,Magalang HubMFM Guiguinto,Magalang Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,54,7,7,8,14,27,10,,54,,,,,,,,7,7,8,14,27,10
@@ -4285,7 +4285,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5 ParkingTagaytay Hub,SOC 5 Parking,Tagaytay Hub,GMA,SOL,GMA SOL,,37,5,5,5,9,19,7,,37,2,2,2,2,3,2,,7,7,7,11,22,9
 1,SOC 5PHR,SOC 5,PHR,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
 1,SOC 6 ParkingMalasiqui Hub,SOC 6 Parking,Malasiqui Hub,LUZ,NOL,FAR NOL,,179,22,22,26,45,90,33,,179,2,2,2,2,3,2,,24,24,28,47,93,35
-1,SOC 5 ParkingMaDCelo Green Hub,SOC 5 Parking,MaDCelo Green Hub,,,,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
+1,SOC 5 ParkingMarcelo Green Hub,SOC 5 Parking,Marcelo Green Hub,MM,NCR,MM,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,SOC 5 ParkingOP Calzada Taguig Hub,SOC 5 Parking,OP Calzada Taguig Hub,MM,NCR,MM,,42,5,5,6,11,21,8,,42,2,2,2,2,3,2,,7,7,8,13,24,10
 1,IM-WarehouseSOC 9,IM-Warehouse,SOC 9,GMA,NOL,GMA NOL,,94,12,12,13,24,47,17,,94,2,2,2,2,3,2,,14,14,15,26,50,19
 1,SOC 9SOC 5 Parking,SOC 9,SOC 5 Parking,GMA,SOL,GMA SOL,,94,12,12,13,24,47,17,,94,2,2,2,2,3,2,,14,14,15,26,50,19
@@ -4318,7 +4318,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Calumpang HubLucena Hub,Calumpang Hub,Lucena Hub,LUZ,SOL,FAR SOL,,10,1,1,1,3,5,2,,10,,,,,,,,1,1,1,3,5,2
 1,PHAPHF,PHA,PHF,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,OP Tala Caloocan HubFM DTS Cluster 6,OP Tala Caloocan Hub,FM DTS Cluster 6,MM,NCR,MM,,19,2,2,3,5,10,3,,19,,,,,,,,2,2,3,5,10,3
-1,MaDCelo Green HubDOP-DTS - 168 Chan Chan,MaDCelo Green Hub,DOP-DTS - 168 Chan Chan,MM,NCR,MM,,37,5,5,5,9,19,7,,37,,,,,,,,5,5,5,9,19,7
+1,Marcelo Green HubDOP-DTS - 168 Chan Chan,Marcelo Green Hub,DOP-DTS - 168 Chan Chan,MM,NCR,MM,,37,5,5,5,9,19,7,,37,,,,,,,,5,5,5,9,19,7
 1,Tarlac HubConcepcion Hub,Tarlac Hub,Concepcion Hub,LUZ,NOL,FAR NOL,,24,3,3,3,6,12,4,,24,,,,,,,,3,3,3,6,12,4
 1,Valenzuela HubIM-Warehouse,Valenzuela Hub,IM-Warehouse,GMA,SOL,GMA SOL,,67,8,8,10,17,34,12,,67,,,,,,,,8,8,10,17,34,12
 1,IM-WarehouseHugo Perez Hub,IM-Warehouse,Hugo Perez Hub,GMA,SOL,GMA SOL,,38,5,5,5,10,19,7,,38,,,,,,,,5,5,5,10,19,7
@@ -4334,8 +4334,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Pandacan HubPaco Hub,Pandacan Hub,Paco Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,PHLPHIXC,PHL,PHIXC,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Mandaluyong HubMarikina Hub,Mandaluyong Hub,Marikina Hub,MM,NCR,MM,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
-1,IM-WarehouseMaDCelo Green Hub,IM-Warehouse,MaDCelo Green Hub,,,,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
-1,MaDCelo Green HubSOC 5 Parking,MaDCelo Green Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
+1,IM-WarehouseMarcelo Green Hub,IM-Warehouse,Marcelo Green Hub,MM,NCR,MM,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
+1,Marcelo Green HubSOC 5 Parking,Marcelo Green Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,Concepcion HubBamban Hub,Concepcion Hub,Bamban Hub,LUZ,NOL,FAR NOL,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Santa Rita HubSOC 8 Parking,Santa Rita Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,127,16,16,18,32,64,23,,127,2,2,2,2,3,2,,18,18,20,34,67,25
 1,Dasmarinas HubTanza Hub,Dasmarinas Hub,Tanza Hub,GMA,SOL,GMA SOL,,23,3,3,3,6,12,4,,23,,,,,,,,3,3,3,6,12,4
@@ -4352,7 +4352,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Mambog HubSOC 6 Parking,Mambog Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,53,7,7,8,13,27,10,,53,2,2,2,2,3,2,,9,9,10,15,30,12
 1,PHUSOC 6,PHU,SOC 6,GMA,NOL,GMA NOL,,28,4,4,4,7,14,5,,28,2,2,2,2,3,2,,6,6,6,9,17,7
 1,San Isidro NE HubJaen Hub,San Isidro NE Hub,Jaen Hub,LUZ,NOL,FAR NOL,,10,1,1,1,3,5,2,,10,,,,,,,,1,1,1,3,5,2
-1,MaDCelo Green HubPasig Hub,MaDCelo Green Hub,Pasig Hub,MM,NCR,MM,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
+1,Marcelo Green HubPasig Hub,Marcelo Green Hub,Pasig Hub,MM,NCR,MM,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Pasig HubArnaiz Hub,Pasig Hub,Arnaiz Hub,MM,NCR,MM,,15,2,2,2,4,8,3,,15,,,,,,,,2,2,2,4,8,3
 1,IM-WarehouseSan Antonio NE Hub,IM-Warehouse,San Antonio NE Hub,LUZ,NOL,FAR NOL,,149,19,19,21,37,75,27,,149,,,,,,,,19,19,21,37,75,27
 1,San Antonio NE HubSOC 5 Parking,San Antonio NE Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,149,19,19,21,37,75,27,,149,2,2,2,2,3,2,,21,21,23,39,78,29
@@ -4428,7 +4428,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,San Isidro Rodriguez HubRodriguez Hub,San Isidro Rodriguez Hub,Rodriguez Hub,GMA,NCR,MM/GMA,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Lucban HubLucena Hub,Lucban Hub,Lucena Hub,LUZ,SOL,FAR SOL,,24,3,3,3,6,12,4,,24,,,,,,,,3,3,3,6,12,4
 1,Culiat HubCongressional Hub,Culiat Hub,Congressional Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
-1,Padre GaDCia HubSabang Hub,Padre GaDCia Hub,Sabang Hub,LUZ,SOL,FAR SOL,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
+1,Padre Garcia HubSabang Hub,Padre Garcia Hub,Sabang Hub,LUZ,SOL,FAR SOL,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
 1,Upper QC HubEast QC Hub,Upper QC Hub,East QC Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Imus HubBacoor Hub,Imus Hub,Bacoor Hub,GMA,SOL,GMA SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
 1,Muntinlupa HubMakati-Magallanes Hub,Muntinlupa Hub,Makati-Magallanes Hub,MM,NCR,MM,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
@@ -4455,7 +4455,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Santo Tomas HubBauan Hub,Santo Tomas Hub,Bauan Hub,LUZ,SOL,FAR SOL,,50,6,6,7,13,25,9,,50,,,,,,,,6,6,7,13,25,9
 1,Molino HubMambog Hub,Molino Hub,Mambog Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Gumaca HubSanta Elena Hub,Gumaca Hub,Santa Elena Hub,LUZ,SOL,FAR SOL,,61,8,8,9,15,31,11,,61,,,,,,,,8,8,9,15,31,11
-1,Padre GaDCia HubLipa Hub,Padre GaDCia Hub,Lipa Hub,LUZ,SOL,FAR SOL,,15,2,2,2,4,8,3,,15,,,,,,,,2,2,2,4,8,3
+1,Padre Garcia HubLipa Hub,Padre Garcia Hub,Lipa Hub,LUZ,SOL,FAR SOL,,15,2,2,2,4,8,3,,15,,,,,,,,2,2,2,4,8,3
 1,Tagaytay HubSilang Hub,Tagaytay Hub,Silang Hub,GMA,SOL,GMA SOL,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
 1,Imus HubMolino Hub,Imus Hub,Molino Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,San Andres HubIM-Warehouse,San Andres Hub,IM-Warehouse,GMA,SOL,GMA SOL,,257,32,32,37,64,129,47,,257,,,,,,,,32,32,37,64,129,47
@@ -4579,7 +4579,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5 ParkingMuntinlupa Hub,SOC 5 Parking,Muntinlupa Hub,MM,NCR,MM,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,SOC 5 ParkingMINI Hub Felix Ave,SOC 5 Parking,MINI Hub Felix Ave,MM,NCR,MM,,52,7,7,7,13,26,9,,52,2,2,2,2,3,2,,9,9,9,15,29,11
 1,SOC 5 ParkingNorth Tanza Hub,SOC 5 Parking,North Tanza Hub,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
-1,SOC 5 ParkingSan NaDCiso Hub,SOC 5 Parking,San NaDCiso Hub,,,,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
+1,SOC 5 ParkingSan Narciso Hub,SOC 5 Parking,San Narciso Hub,LUZ,SOL,FAR SOL,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
 1,SOC 5 ParkingCupang Hub,SOC 5 Parking,Cupang Hub,MM,NCR,MM,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,SOC 5 ParkingMid QC Hub,SOC 5 Parking,Mid QC Hub,MM,NCR,MM,,64,8,8,9,16,32,12,,64,2,2,2,2,3,2,,10,10,11,18,35,14
 1,SOC 5 ParkingSanta Lucia Hub,SOC 5 Parking,Santa Lucia Hub,LUZ,NOL,FAR NOL,,120,15,15,17,30,60,22,,120,2,2,2,2,3,2,,17,17,19,32,63,24
@@ -4652,7 +4652,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,OP Calzada Taguig HubRuhale Hub,OP Calzada Taguig Hub,Ruhale Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Manuyo Uno HubCAA Hub,Manuyo Uno Hub,CAA Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Almanza Uno HubCupang Hub,Almanza Uno Hub,Cupang Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
-1,Sun Valley HubMaDCelo Green Hub,Sun Valley Hub,MaDCelo Green Hub,,,,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
+1,Sun Valley HubMarcelo Green Hub,Sun Valley Hub,Marcelo Green Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Liliw HubSOC 8 Parking,Liliw Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
 1,Pandacan HubSOC 8 Parking,Pandacan Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,45,6,6,6,11,23,8,,45,2,2,2,2,3,2,,8,8,8,13,26,10
 1,Lucena HubSOC 8 Parking,Lucena Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,91,11,11,13,23,46,17,,91,2,2,2,2,3,2,,13,13,15,25,49,19
@@ -4677,7 +4677,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 8 ParkingManuyo Uno Hub,SOC 8 Parking,Manuyo Uno Hub,MM,NCR,MM,,36,5,5,5,9,18,7,,36,2,2,2,2,3,2,,7,7,7,11,21,9
 1,SOC 8 ParkingMFM Laguna,SOC 8 Parking,MFM Laguna,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
 1,SOC 8 ParkingCAA Hub,SOC 8 Parking,CAA Hub,MM,NCR,MM,,31,4,4,4,8,16,6,,31,2,2,2,2,3,2,,6,6,6,10,19,8
-1,SOC 8 ParkingMaDCelo Green Hub,SOC 8 Parking,MaDCelo Green Hub,,,,,29,4,4,4,7,15,5,,29,2,2,2,2,3,2,,6,6,6,9,18,7
+1,SOC 8 ParkingMarcelo Green Hub,SOC 8 Parking,Marcelo Green Hub,MM,NCR,MM,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,SOC 8 ParkingCache WH 1,SOC 8 Parking,Cache WH 1,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
 1,Sariaya HubSOC 8 Parking,Sariaya Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,77,10,10,11,19,39,14,,77,2,2,2,2,3,2,,12,12,13,21,42,16
 1,Airport Loop - SkywaySOC 8 Parking,Airport Loop - Skyway,SOC 8 Parking,GMA,SOL,GMA SOL,,40,5,5,6,10,20,7,,40,2,2,2,2,3,2,,7,7,8,12,23,9
@@ -5124,8 +5124,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Bagumbayan HubSOC 5 Parking,Bagumbayan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,37,5,5,5,9,19,7,,37,2,2,2,2,3,2,,7,7,7,11,22,9
 1,IM-WarehouseDeparo Hub,IM-Warehouse,Deparo Hub,MM,NCR,MM,,71,9,9,10,18,36,13,,71,,,,,,,,9,9,10,18,36,13
 1,Deparo HubSOC 5 Parking,Deparo Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,71,9,9,10,18,36,13,,71,2,2,2,2,3,2,,11,11,12,20,39,15
-1,IM-WarehouseMeDCedes Hub,IM-Warehouse,MeDCedes Hub,,,,,48,6,6,7,12,24,9,,48,,,,,,,,6,6,7,12,24,9
-1,MeDCedes HubSOC 5 Parking,MeDCedes Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
+1,IM-WarehouseMercedes Hub,IM-Warehouse,Mercedes Hub,MM,NCR,MM,,48,6,6,7,12,24,9,,48,,,,,,,,6,6,7,12,24,9
+1,Mercedes HubSOC 5 Parking,Mercedes Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 1,PHIXPPHJ,PHIXP,PHJ,GMA,NOL,GMA NOL,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
 1,PHLAG5PHLAG3,PHLAG5,PHLAG3,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,SOC 5PHLAG5,SOC 5,PHLAG5,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
@@ -5143,8 +5143,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Imus HubIM-Warehouse,Imus Hub,IM-Warehouse,GMA,SOL,GMA SOL,,36,5,5,5,9,18,7,,36,,,,,,,,5,5,5,9,18,7
 1,SOC 8 ParkingRodriguez Hub,SOC 8 Parking,Rodriguez Hub,GMA,NCR,MM/GMA,,71,9,9,10,18,36,13,,71,2,2,2,2,3,2,,11,11,12,20,39,15
 1,Rodriguez HubSOC 8 Parking,Rodriguez Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,71,9,9,10,18,36,13,,71,2,2,2,2,3,2,,11,11,12,20,39,15
-1,IM-WarehouseMaDCelo Green Dark Store,IM-Warehouse,MaDCelo Green Dark Store,,,,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
-1,MaDCelo Green Dark StoreSOC 5 Parking,MaDCelo Green Dark Store,SOC 5 Parking,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
+1,IM-WarehouseMarcelo Green Dark Store,IM-Warehouse,Marcelo Green Dark Store,MM,NCR,MM,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
+1,Marcelo Green Dark StoreSOC 5 Parking,Marcelo Green Dark Store,SOC 5 Parking,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,Rosario HubAlaminos Hub,Rosario Hub,Alaminos Hub,LUZ,NOL,FAR NOL,,82,10,10,12,21,41,15,,82,,,,,,,,10,10,12,21,41,15
 1,IM-WarehouseCalabuso Hub,IM-Warehouse,Calabuso Hub,GMA,SOL,GMA SOL,,16,2,2,2,4,8,3,,16,,,,,,,,2,2,2,4,8,3
 1,IM-WarehouseBF Homes Hub,IM-Warehouse,BF Homes Hub,MM,NCR,MM,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
@@ -5323,7 +5323,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 6Guiguinto Hub,SOC 6,Guiguinto Hub,GMA,NOL,GMA NOL,,24,3,3,3,6,12,4,,24,2,2,2,2,3,2,,5,5,5,8,15,6
 1,Guiguinto HubCalumpit Hub,Guiguinto Hub,Calumpit Hub,GMA,NOL,GMA NOL,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
 1,SOC 9Malasiqui Hub,SOC 9,Malasiqui Hub,LUZ,NOL,FAR NOL,,184,23,23,26,46,92,33,,184,2,2,2,2,3,2,,25,25,28,48,95,35
-1,Pasig HubMeDCedes Hub,Pasig Hub,MeDCedes Hub,,,,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Pasig HubMercedes Hub,Pasig Hub,Mercedes Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,IM-WarehousePulong Santa Cruz Hub,IM-Warehouse,Pulong Santa Cruz Hub,GMA,SOL,GMA SOL,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
 1,Pulong Santa Cruz HubSOC 5 Parking,Pulong Santa Cruz Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,13,2,2,2,3,7,2,,13,2,2,2,2,3,2,,4,4,4,5,10,4
 1,SOC 9MFM Pulilan,SOC 9,MFM Pulilan,GMA,NOL,GMA NOL,,25,3,3,4,6,13,5,,25,2,2,2,2,3,2,,5,5,6,8,16,7
@@ -5457,7 +5457,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Balayan HubOP Nasugbu Batangas Hub,Balayan Hub,OP Nasugbu Batangas Hub,LUZ,SOL,FAR SOL,,21,3,3,3,5,11,4,,21,,,,,,,,3,3,3,5,11,4
 1,OP Nasugbu Batangas HubSOC 5 Parking,OP Nasugbu Batangas Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,59,7,7,8,15,30,11,,59,2,2,2,2,3,2,,9,9,10,17,33,13
 1,Dimasalang HubSOC 5 Parking,Dimasalang Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,44,6,6,6,11,22,8,,44,2,2,2,2,3,2,,8,8,8,13,25,10
-1,Padre GaDCia HubOP Taysan Batangas Hub,Padre GaDCia Hub,OP Taysan Batangas Hub,LUZ,SOL,FAR SOL,,18,2,2,3,5,9,3,,18,,,,,,,,2,2,3,5,9,3
+1,Padre Garcia HubOP Taysan Batangas Hub,Padre Garcia Hub,OP Taysan Batangas Hub,LUZ,SOL,FAR SOL,,18,2,2,3,5,9,3,,18,,,,,,,,2,2,3,5,9,3
 1,OP Taysan Batangas HubSOC 5 Parking,OP Taysan Batangas Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
 1,SOC 9Castillejos Hub,SOC 9,Castillejos Hub,LUZ,NOL,FAR NOL,,155,19,19,22,39,78,28,,155,2,2,2,2,3,2,,21,21,24,41,81,30
 1,Castillejos HubMFM Pulilan,Castillejos Hub,MFM Pulilan,GMA,NOL,GMA NOL,,129,16,16,18,32,65,23,,129,,,,,,,,16,16,18,32,65,23
@@ -5487,7 +5487,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 6MB Santa Maria Hub,SOC 6,MB Santa Maria Hub,MIN,MIN,MIN,,1414,177,177,202,354,707,257,,1414,2,2,2,2,3,2,,179,179,204,356,710,259
 1,MB Santa Maria HubSOC 6 Parking,MB Santa Maria Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,1414,177,177,202,354,707,257,,1414,2,2,2,2,3,2,,179,179,204,356,710,259
 1,OP Sampaga Batangas City HubPallocan Hub,OP Sampaga Batangas City Hub,Pallocan Hub,LUZ,SOL,FAR SOL,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
-1,SOC 11MeDCedes Hub,SOC 11,MeDCedes Hub,,,,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
+1,SOC 11Mercedes Hub,SOC 11,Mercedes Hub,MM,NCR,MM,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 1,SOC 9Mariveles Hub,SOC 9,Mariveles Hub,LUZ,NOL,FAR NOL,,132,17,17,19,33,66,24,,132,2,2,2,2,3,2,,19,19,21,35,69,26
 1,Paombong HubSOC 9,Paombong Hub,SOC 9,GMA,NOL,GMA NOL,,28,4,4,4,7,14,5,,28,2,2,2,2,3,2,,6,6,6,9,17,7
 1,Naic HubOP Magallanes Cavite Hub,Naic Hub,OP Magallanes Cavite Hub,GMA,SOL,GMA SOL,,24,3,3,3,6,12,4,,24,,,,,,,,3,3,3,6,12,4
@@ -5594,14 +5594,14 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1, Mabalacat HubMabalacat-Santa Maria Hub, Mabalacat Hub,Mabalacat-Santa Maria Hub,LUZ,NOL,FAR NOL,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,Mabalacat-Santa Maria HubSOC 6 Parking,Mabalacat-Santa Maria Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,77,10,10,11,19,39,14,,77,2,2,2,2,3,2,,12,12,13,21,42,16
 1,SOC 11Binan Hub,SOC 11,Binan Hub,GMA,SOL,GMA SOL,,20,3,3,3,5,10,4,,20,2,2,2,2,3,2,,5,5,5,7,13,6
-1,MaDCelo Green HubIM-Warehouse,MaDCelo Green Hub,IM-Warehouse,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
+1,Marcelo Green HubIM-Warehouse,Marcelo Green Hub,IM-Warehouse,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,,,,,,,,4,4,5,8,16,6
 1,SOC 8OP Nasugbu Batangas Hub,SOC 8,OP Nasugbu Batangas Hub,LUZ,SOL,FAR SOL,,67,8,8,10,17,34,12,,67,2,2,2,2,3,2,,10,10,12,19,37,14
 1,OP Mabini Batangas HubMFM Laguna,OP Mabini Batangas Hub,MFM Laguna,GMA,SOL,GMA SOL,,75,9,9,11,19,38,14,,75,,,,,,,,9,9,11,19,38,14
 1,OP Mabini Batangas HubBauan Hub,OP Mabini Batangas Hub,Bauan Hub,LUZ,SOL,FAR SOL,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
 1,OP Laurel Batangas HubTalisay Batangas Hub,OP Laurel Batangas Hub,Talisay Batangas Hub,LUZ,SOL,FAR SOL,,15,2,2,2,4,8,3,,15,,,,,,,,2,2,2,4,8,3
 1,Tunasan HubMarikina Hub,Tunasan Hub,Marikina Hub,MM,NCR,MM,,38,5,5,5,10,19,7,,38,,,,,,,,5,5,5,10,19,7
 1,Ruhale HubSOC 5,Ruhale Hub,SOC 5,GMA,SOL,GMA SOL,,42,5,5,6,11,21,8,,42,2,2,2,2,3,2,,7,7,8,13,24,10
-1,MeDCedes HubSOC 11,MeDCedes Hub,SOC 11,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
+1,Mercedes HubSOC 11,Mercedes Hub,SOC 11,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 1,SOC 6 ParkingSantiago Hub,SOC 6 Parking,Santiago Hub,LUZ,NOL,FAR NOL,,308,39,39,44,77,154,56,,308,2,2,2,2,3,2,,41,41,46,79,157,58
 1,Santiago HubSOC 6 Parking,Santiago Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,308,39,39,44,77,154,56,,308,2,2,2,2,3,2,,41,41,46,79,157,58
 1,Batangas HubOP Laurel Batangas Hub,Batangas Hub,OP Laurel Batangas Hub,LUZ,SOL,FAR SOL,,67,8,8,10,17,34,12,,67,,,,,,,,8,8,10,17,34,12
@@ -5778,7 +5778,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Santa Lucia HubMFM Pulilan,Santa Lucia Hub,MFM Pulilan,GMA,NOL,GMA NOL,,33,4,4,5,8,17,6,,33,,,,,,,,4,4,5,8,17,6
 1,Cabuyao HubPulilan Hub,Cabuyao Hub,Pulilan Hub,GMA,NOL,GMA NOL,,96,12,12,14,24,48,17,,96,,,,,,,,12,12,14,24,48,17
 1,Mabalacat HubMFM Pulilan,Mabalacat Hub,MFM Pulilan,GMA,NOL,GMA NOL,,50,6,6,7,13,25,9,,50,,,,,,,,6,6,7,13,25,9
-1,MaDCelo Green HubArnaiz Hub,MaDCelo Green Hub,Arnaiz Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
+1,Marcelo Green HubArnaiz Hub,Marcelo Green Hub,Arnaiz Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
 1,Arnaiz HubRuhale Hub,Arnaiz Hub,Ruhale Hub,MM,NCR,MM,,17,2,2,2,4,9,3,,17,,,,,,,,2,2,2,4,9,3
 1,Ruhale HubMFM Pasig,Ruhale Hub,MFM Pasig,MM,NCR,MM,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
 1,MFM PasigSan Juan Hub,MFM Pasig,San Juan Hub,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
@@ -5888,16 +5888,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,MFM TunasanSOC 5 Parking,MFM Tunasan,SOC 5 Parking,GMA,SOL,GMA SOL,,24,3,3,3,6,12,4,,24,2,2,2,2,3,2,,5,5,5,8,15,6
 1,IM-WarehouseMFM Cabuyao,IM-Warehouse,MFM Cabuyao,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,MFM CabuyaoSOC 5 Parking,MFM Cabuyao,SOC 5 Parking,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
-1,SOC 8Marcelo Green Hub,SOC 8,Marcelo Green Hub,MM,NCR,MM,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
-1,Marcelo Green HubSun Valley Hub,Marcelo Green Hub,Sun Valley Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,SOC 5Padre Garcia Hub,SOC 5,Padre Garcia Hub,LUZ,SOL,FAR SOL,,45,6,6,6,11,23,8,,45,2,2,2,2,3,2,,8,8,8,13,26,10
-1,Padre Garcia HubOP Taysan Batangas Hub,Padre Garcia Hub,OP Taysan Batangas Hub,LUZ,SOL,FAR SOL,,18,2,2,3,5,9,3,,18,,,,,,,,2,2,3,5,9,3
-1,SOC 5San Narciso Hub,SOC 5,San Narciso Hub,LUZ,SOL,FAR SOL,,226,28,28,32,57,113,41,,226,2,2,2,2,3,2,,30,30,34,59,116,43
-1,San Narciso HubSan Andres Hub,San Narciso Hub,San Andres Hub,LUZ,SOL,FAR SOL,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
-1,Pasig HubMercedes Hub,Pasig Hub,Mercedes Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-1,Mercedes HubSOC 5 Parking,Mercedes Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
-1,Marcelo Green HubSOC 8 Parking,Marcelo Green Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
-1,Padre Garcia HubMFM Laguna,Padre Garcia Hub,MFM Laguna,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,,,,,,,,6,6,7,12,24,9
+2,SOC 5San Narciso Hub,SOC 5,San Narciso Hub,LUZ,SOL,FAR SOL,,226,28,28,32,57,113,41,,226,2,2,2,2,3,2,,30,30,34,59,116,43
 1,Binan HubIM-Warehouse,Binan Hub,IM-Warehouse,GMA,SOL,GMA SOL,,19,2,2,3,5,10,3,,19,,,,,,,,2,2,3,5,10,3
 1,MFM TunasanIM-Warehouse,MFM Tunasan,IM-Warehouse,GMA,SOL,GMA SOL,,24,3,3,3,6,12,4,,24,,,,,,,,3,3,3,6,12,4
 1,SOC 9 ParkingLa Union Hub,SOC 9 Parking,La Union Hub,LUZ,NOL,FAR NOL,,238,30,30,34,60,119,43,,238,2,2,2,2,3,2,,32,32,36,62,122,45
@@ -5927,7 +5919,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,San Jose HubSOC 9 Parking,San Jose Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,111,14,14,16,28,56,20,,111,2,2,2,2,3,2,,16,16,18,30,59,22
 1,San Isidro NE HubSOC 9 Parking,San Isidro NE Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,58,7,7,8,15,29,11,,58,2,2,2,2,3,2,,9,9,10,17,32,13
 1,Guimba HubSOC 9 Parking,Guimba Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,128,16,16,18,32,64,23,,128,2,2,2,2,3,2,,18,18,20,34,67,25
-1,Marcelo Green HubSOC 8,Marcelo Green Hub,SOC 8,GMA,SOL,GMA SOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,Samal HubPulilan Hub,Samal Hub,Pulilan Hub,GMA,NOL,GMA NOL,,75,9,9,11,19,38,14,,75,,,,,,,,9,9,11,19,38,14
 1,SOC 9 ParkingJaen Hub,SOC 9 Parking,Jaen Hub,LUZ,NOL,FAR NOL,,59,7,7,8,15,30,11,,59,2,2,2,2,3,2,,9,9,10,17,33,13
 1,SOC 5Indang Hub,SOC 5,Indang Hub,GMA,SOL,GMA SOL,,53,7,7,8,13,27,10,,53,2,2,2,2,3,2,,9,9,10,15,30,12
@@ -5943,10 +5934,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5 ParkingMFM Cabuyao,SOC 5 Parking,MFM Cabuyao,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
 1,MFM CabuyaoSOC 5,MFM Cabuyao,SOC 5,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
 1,MFM CabuyaoSOC 11,MFM Cabuyao,SOC 11,GMA,SOL,GMA SOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
-1,Mercedes HubSOC 11,Mercedes Hub,SOC 11,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
-1,San Andres HubSan Narciso Hub,San Andres Hub,San Narciso Hub,LUZ,SOL,FAR SOL,,35,4,4,5,9,18,6,,35,,,,,,,,4,4,5,9,18,6
-1,San Narciso HubSOC 5 Parking,San Narciso Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,225,28,28,32,56,113,41,,225,2,2,2,2,3,2,,30,30,34,58,116,43
-1,San Narciso HubMFM Laguna,San Narciso Hub,MFM Laguna,GMA,SOL,GMA SOL,,243,30,30,35,61,122,44,,243,,,,,,,,30,30,35,61,122,44
 1,MFM GuiguintoIM-Warehouse,MFM Guiguinto,IM-Warehouse,GMA,SOL,GMA SOL,,88,11,11,13,22,44,16,,88,,,,,,,,11,11,13,22,44,16
 1,San Felipe HubSOC 9 Parking,San Felipe Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,139,17,17,20,35,70,25,,139,2,2,2,2,3,2,,19,19,22,37,73,27
 1,Indang HubSOC 5,Indang Hub,SOC 5,GMA,SOL,GMA SOL,,53,7,7,8,13,27,10,,53,2,2,2,2,3,2,,9,9,10,15,30,12
@@ -5999,7 +5986,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Mariveles HubSOC 9 Parking,Mariveles Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,126,16,16,18,32,63,23,,126,2,2,2,2,3,2,,18,18,20,34,66,25
 1,Bagac HubSOC 9,Bagac Hub,SOC 9,GMA,NOL,GMA NOL,,123,15,15,18,31,62,22,,123,2,2,2,2,3,2,,17,17,20,33,65,24
 1,SOC 9 ParkingTalavera Hub,SOC 9 Parking,Talavera Hub,LUZ,NOL,FAR NOL,,141,18,18,20,35,71,26,,141,2,2,2,2,3,2,,20,20,22,37,74,28
-1,SOC 8 ParkingMarcelo Green Hub,SOC 8 Parking,Marcelo Green Hub,MM,NCR,MM,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
 1,Paco HubIM-Warehouse,Paco Hub,IM-Warehouse,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,,,,,,,,6,6,7,12,24,9
 1,Alfonso HubIndang Hub,Alfonso Hub,Indang Hub,GMA,SOL,GMA SOL,,21,3,3,3,5,11,4,,21,,,,,,,,3,3,3,5,11,4
 1,MFM PlaridelSOC 9 Parking,MFM Plaridel,SOC 9 Parking,GMA,NOL,GMA NOL,,8,1,1,1,2,4,1,,8,2,2,2,2,3,2,,3,3,3,4,7,3
@@ -6026,7 +6012,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 9 ParkingConcepcion Hub,SOC 9 Parking,Concepcion Hub,LUZ,NOL,FAR NOL,,82,10,10,12,21,41,15,,82,2,2,2,2,3,2,,12,12,14,23,44,17
 1,SOC 5 ParkingAirport Loop - T1,SOC 5 Parking,Airport Loop - T1,MM,NCR,MM,,40,5,5,6,10,20,7,,40,2,2,2,2,3,2,,7,7,8,12,23,9
 1,Airport Loop - T1SOC 8,Airport Loop - T1,SOC 8,GMA,SOL,GMA SOL,,38,5,5,5,10,19,7,,38,2,2,2,2,3,2,,7,7,7,12,22,9
-1,Sun Valley HubMarcelo Green Hub,Sun Valley Hub,Marcelo Green Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Tayug HubPulilan Hub,Tayug Hub,Pulilan Hub,GMA,NOL,GMA NOL,,151,19,19,22,38,76,27,,151,,,,,,,,19,19,22,38,76,27
 1,SOC 5OP Nasugbu Batangas Hub,SOC 5,OP Nasugbu Batangas Hub,LUZ,SOL,FAR SOL,,62,8,8,9,16,31,11,,62,2,2,2,2,3,2,,10,10,11,18,34,13
 1,SOC 9 ParkingPulilan Hub,SOC 9 Parking,Pulilan Hub,GMA,NOL,GMA NOL,,17,2,2,2,4,9,3,,17,2,2,2,2,3,2,,4,4,4,6,12,5
@@ -6034,7 +6019,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 9 ParkingTubao Hub,SOC 9 Parking,Tubao Hub,LUZ,NOL,FAR NOL,,206,26,26,29,52,103,37,,206,2,2,2,2,3,2,,28,28,31,54,106,39
 1,IM-WarehouseSouth Caloocan Hub,IM-Warehouse,South Caloocan Hub,MM,NCR,MM,,58,7,7,8,15,29,11,,58,,,,,,,,7,7,8,15,29,11
 1,South Caloocan HubSOC 5 Parking,South Caloocan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,59,7,7,8,15,30,11,,59,2,2,2,2,3,2,,9,9,10,17,33,13
-1,SOC 5 ParkingMarcelo Green Hub,SOC 5 Parking,Marcelo Green Hub,MM,NCR,MM,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,Plaridel HubSOC 9 Parking,Plaridel Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,7,1,1,1,2,4,1,,7,2,2,2,2,3,2,,3,3,3,4,7,3
 1,Santo Tomas HubPagsanjan Hub,Santo Tomas Hub,Pagsanjan Hub,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,,,,,,,,6,6,7,13,26,9
 1,SOC 6Angeles-Santo Rosario Hub,SOC 6,Angeles-Santo Rosario Hub,LUZ,NOL,FAR NOL,,70,9,9,10,18,35,13,,70,2,2,2,2,3,2,,11,11,12,20,38,15
@@ -6202,7 +6186,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,OP Landayan San Pedro HubCanlalay Hub,OP Landayan San Pedro Hub,Canlalay Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,SOC 5 ParkingPHL,SOC 5 Parking,PHL,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
 1,OP Landayan San Pedro HubSOC 11,OP Landayan San Pedro Hub,SOC 11,GMA,SOL,GMA SOL,,22,3,3,3,6,11,4,,22,2,2,2,2,3,2,,5,5,5,8,14,6
-1,SOC 11Mercedes Hub,SOC 11,Mercedes Hub,MM,NCR,MM,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 1,SOC 5 ParkingSPX Batino Warehouse,SOC 5 Parking,SPX Batino Warehouse,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
 1,Pangasinan-San Carlos HubMangaldan Hub,Pangasinan-San Carlos Hub,Mangaldan Hub,LUZ,NOL,FAR NOL,,18,2,2,3,5,9,3,,18,,,,,,,,2,2,3,5,9,3
 1,Santa Barbara HubUmingan Hub,Santa Barbara Hub,Umingan Hub,LUZ,NOL,FAR NOL,,57,7,7,8,14,29,10,,57,,,,,,,,7,7,8,14,29,10
@@ -6414,7 +6397,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Lingayen HubSOC 9,Lingayen Hub,SOC 9,GMA,NOL,GMA NOL,,204,26,26,29,51,102,37,,204,2,2,2,2,3,2,,28,28,31,53,105,39
 1,Santa Barbara HubSOC 9,Santa Barbara Hub,SOC 9,GMA,NOL,GMA NOL,,189,24,24,27,47,95,34,,189,2,2,2,2,3,2,,26,26,29,49,98,36
 1,Dagupan-Pantal HubSOC 9,Dagupan-Pantal Hub,SOC 9,GMA,NOL,GMA NOL,,198,25,25,28,50,99,36,,198,2,2,2,2,3,2,,27,27,30,52,102,38
-1,Marcelo Green HubSOC 5 Parking,Marcelo Green Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,San Fabian HubSOC 9,San Fabian Hub,SOC 9,GMA,NOL,GMA NOL,,194,24,24,28,49,97,35,,194,2,2,2,2,3,2,,26,26,30,51,100,37
 1,Urdaneta HubSOC 9,Urdaneta Hub,SOC 9,GMA,NOL,GMA NOL,,172,22,22,25,43,86,31,,172,2,2,2,2,3,2,,24,24,27,45,89,33
 1,Binalonan HubSOC 9,Binalonan Hub,SOC 9,GMA,NOL,GMA NOL,,184,23,23,26,46,92,33,,184,2,2,2,2,3,2,,25,25,28,48,95,35
@@ -6431,7 +6413,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Jaboneros HubSOC 8 Parking,Jaboneros Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,2,2,2,2,3,2,,8,8,9,14,28,11
 1,San Fabian HubSOC 9 Parking,San Fabian Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,187,23,23,27,47,94,34,,187,2,2,2,2,3,2,,25,25,29,49,97,36
 1,Pagsanjan HubSOC 8 Parking,Pagsanjan Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
-1,Dasa HubMarcelo Green Hub,Dasa Hub,Marcelo Green Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,SOC 11Almanza Uno Hub,SOC 11,Almanza Uno Hub,MM,NCR,MM,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
 1,Cupang HubSOC 11,Cupang Hub,SOC 11,GMA,SOL,GMA SOL,,29,4,4,4,7,15,5,,29,2,2,2,2,3,2,,6,6,6,9,18,7
 1,CAA HubSOC 11,CAA Hub,SOC 11,GMA,SOL,GMA SOL,,34,4,4,5,9,17,6,,34,2,2,2,2,3,2,,6,6,7,11,20,8
@@ -6554,7 +6535,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Noveleta HubHalang-Naic Hub,Noveleta Hub,Halang-Naic Hub,GMA,SOL,GMA SOL,,23,3,3,3,6,12,4,,23,,,,,,,,3,3,3,6,12,4
 1,OP Ternate Cavite HubHalang-Naic Hub,OP Ternate Cavite Hub,Halang-Naic Hub,GMA,SOL,GMA SOL,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
 1,Halang-Naic HubNaic Hub,Halang-Naic Hub,Naic Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-1,Marcelo Green HubSOC 5,Marcelo Green Hub,SOC 5,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,SOC 8Pulong Santa Cruz Hub,SOC 8,Pulong Santa Cruz Hub,GMA,SOL,GMA SOL,,10,1,1,1,3,5,2,,10,2,2,2,2,3,2,,3,3,3,5,8,4
 1,Pulong Santa Cruz HubSOC 8,Pulong Santa Cruz Hub,SOC 8,GMA,SOL,GMA SOL,,10,1,1,1,3,5,2,,10,2,2,2,2,3,2,,3,3,3,5,8,4
 1,IM-WarehouseCandelaria Hub,IM-Warehouse,Candelaria Hub,LUZ,SOL,FAR SOL,,63,8,8,9,16,32,11,,63,,,,,,,,8,8,9,16,32,11
@@ -6578,7 +6558,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Market-Santa Rosa HubBalibago Hub,Market-Santa Rosa Hub,Balibago Hub,GMA,SOL,GMA SOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
 1,Guiguinto HubMFM Guiguinto,Guiguinto Hub,MFM Guiguinto,GMA,NOL,GMA NOL,,3,0,0,0,1,2,1,,3,,,,,,,,0,0,0,1,2,1
 1,Las Pinas HubSOC 11,Las Pinas Hub,SOC 11,GMA,SOL,GMA SOL,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
-1,Padre Garcia HubSOC 5 Parking,Padre Garcia Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,46,6,6,7,12,23,8,,46,2,2,2,2,3,2,,8,8,9,14,26,10
 1,SOC 11Market-Santa Rosa Hub,SOC 11,Market-Santa Rosa Hub,GMA,SOL,GMA SOL,,16,2,2,2,4,8,3,,16,2,2,2,2,3,2,,4,4,4,6,11,5
 1,Market-Santa Rosa HubMajada-Canlubang Hub,Market-Santa Rosa Hub,Majada-Canlubang Hub,GMA,SOL,GMA SOL,,20,3,3,3,5,10,4,,20,,,,,,,,3,3,3,5,10,4
 1,MFM PasigSOC 11,MFM Pasig,SOC 11,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11

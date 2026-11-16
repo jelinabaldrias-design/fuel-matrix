@@ -6585,7 +6585,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Pakil HubSOC 11,Pakil Hub,SOC 11,GMA,SOL,GMA SOL,,59,7,7,8,15,30,11,,59,2,2,2,2,3,2,,9,9,10,17,33,13
 1,SOC 8 ParkingTagkawayan Hub,SOC 8 Parking,Tagkawayan Hub,LUZ,SOL,FAR SOL,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
 1,Tagkawayan HubSOC 8 Parking,Tagkawayan Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,OP Sampaloc Manila HubSOC 5,OP Sampaloc Manila Hub,SOC 5,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

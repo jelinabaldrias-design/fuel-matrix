@@ -6362,7 +6362,6 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Amparo HubNorth East Caloocan Hub,Amparo Hub,North East Caloocan Hub,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 1,Pangasinan DCBinalonan Hub,Pangasinan DC,Binalonan Hub,LUZ,NOL,FAR NOL,,27,3,3,4,7,14,5,,27,,,,,,,,3,3,4,7,14,5
 1,SOC 11Tejero Hub,SOC 11,Tejero Hub,GMA,SOL,GMA SOL,,56,7,7,8,14,28,10,,56,2,2,2,2,3,2,,9,9,10,16,31,12
-1, Del Monte Ave HubImelda Hub, Del Monte Ave Hub,Imelda Hub,MIN,MIN,MIN,,#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),,#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),,,,,,,,#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.),#N/A (Did not find value ' Del Monte Ave HubImelda Hub' in XLOOKUP evaluation.)
 1,Imelda HubSOC 6,Imelda Hub,SOC 6,GMA,NOL,GMA NOL,,1097,137,137,157,274,549,199,,1097,2,2,2,2,3,2,,139,139,159,276,552,201
 1,Binalonan HubPangasinan DC,Binalonan Hub,Pangasinan DC,LUZ,NOL,FAR NOL,,27,3,3,4,7,14,5,,27,,,,,,,,3,3,4,7,14,5
 1,Taytay HubIM-Warehouse,Taytay Hub,IM-Warehouse,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,,,,,,,,6,6,7,12,24,9
@@ -6589,14 +6588,14 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,IM-WarehouseBay Hub,IM-Warehouse,Bay Hub,GMA,SOL,GMA SOL,,19,2,2,3,5,10,3,,19,,,,,,,,2,2,3,5,10,3
 1,Lucena HubQuezon-Dolores Hub,Lucena Hub,Quezon-Dolores Hub,LUZ,SOL,FAR SOL,,53,7,7,8,13,27,10,,53,,,,,,,,7,7,8,13,27,10
 1,SOC 5OP Mabini Pangasinan Hub,SOC 5,OP Mabini Pangasinan Hub,LUZ,NOL,FAR NOL,,307,38,38,44,77,154,56,,307,2,2,2,2,3,2,,40,40,46,79,157,58
-1,OP Mabini Pangasinan HubOP Bauan Batangas Hub,OP Mabini Pangasinan Hub,OP Bauan Batangas Hub,LUZ,SOL,FAR SOL,,354,44,44,51,89,177,64,,354,,,,,,,,44,44,51,89,177,64
-1,OP Mabini Pangasinan HubOP Mabini Batangas Hub,OP Mabini Pangasinan Hub,OP Mabini Batangas Hub,LUZ,SOL,FAR SOL,,357,45,45,51,89,179,65,,357,,,,,,,,45,45,51,89,179,65
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,OP Mabini Pangasinan HubOP Bauan Batangas Hub,OP Mabini Pangasinan Hub,OP Bauan Batangas Hub,LUZ,SOL,FAR SOL,,377,47,47,54,94,189,69,,377,,,,,,,,47,47,54,94,189,69
+1,OP Mabini Pangasinan HubOP Mabini Batangas Hub,OP Mabini Pangasinan Hub,OP Mabini Batangas Hub,LUZ,SOL,FAR SOL,,380,48,48,54,95,190,69,,380,,,,,,,,48,48,54,95,190,69
+1,Dagupan-Pantal HubLingayen Hub,Dagupan-Pantal Hub,Lingayen Hub,LUZ,NOL,FAR NOL,,18,2,2,3,5,9,3,,18,,,,,,,,2,2,3,5,9,3
+1,Airport Loop - T1Airport Loop,Airport Loop - T1,Airport Loop,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,SOC 5MFM Valenzuela,SOC 5,MFM Valenzuela,MM,NCR,MM,,64,8,8,9,16,32,12,,64,2,2,2,2,3,2,,10,10,11,18,35,14
+1,SOC 5MFM North Caloocan,SOC 5,MFM North Caloocan,MM,NCR,MM,,72,9,9,10,18,36,13,,72,2,2,2,2,3,2,,11,11,12,20,39,15
+1,SOC 6San Carlos Hub,SOC 6,San Carlos Hub,VIS,VIS,VIS,,668,84,84,95,167,334,121,,668,2,2,2,2,3,2,,86,86,97,169,337,123
+1,San Carlos HubSOC 6,San Carlos Hub,SOC 6,GMA,NOL,GMA NOL,,668,84,84,95,167,334,121,,668,2,2,2,2,3,2,,86,86,97,169,337,123
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

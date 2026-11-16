@@ -6586,11 +6586,11 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 8 ParkingTagkawayan Hub,SOC 8 Parking,Tagkawayan Hub,LUZ,SOL,FAR SOL,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
 1,Tagkawayan HubSOC 8 Parking,Tagkawayan Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,227,28,28,32,57,114,41,,227,2,2,2,2,3,2,,30,30,34,59,117,43
 1,OP Sampaloc Manila HubSOC 5,OP Sampaloc Manila Hub,SOC 5,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,IM-WarehouseBay Hub,IM-Warehouse,Bay Hub,GMA,SOL,GMA SOL,,19,2,2,3,5,10,3,,19,,,,,,,,2,2,3,5,10,3
+1,Lucena HubQuezon-Dolores Hub,Lucena Hub,Quezon-Dolores Hub,LUZ,SOL,FAR SOL,,53,7,7,8,13,27,10,,53,,,,,,,,7,7,8,13,27,10
+1,SOC 5OP Mabini Pangasinan Hub,SOC 5,OP Mabini Pangasinan Hub,LUZ,NOL,FAR NOL,,307,38,38,44,77,154,56,,307,2,2,2,2,3,2,,40,40,46,79,157,58
+1,OP Mabini Pangasinan HubOP Bauan Batangas Hub,OP Mabini Pangasinan Hub,OP Bauan Batangas Hub,LUZ,SOL,FAR SOL,,354,44,44,51,89,177,64,,354,,,,,,,,44,44,51,89,177,64
+1,OP Mabini Pangasinan HubOP Mabini Batangas Hub,OP Mabini Pangasinan Hub,OP Mabini Batangas Hub,LUZ,SOL,FAR SOL,,357,45,45,51,89,179,65,,357,,,,,,,,45,45,51,89,179,65
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

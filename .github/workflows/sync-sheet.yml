@@ -8,14 +8,9 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: sync-google-sheet
-  cancel-in-progress: false
-
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -114,10 +109,4 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add sheet-data.csv coords.csv
-          if git diff --cached --quiet; then
-            echo "Walang nagbago sa data."
-          else
-            git commit -m "Update sheet data"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push
-          fi
+          git diff --cached --quiet || (git commit -m "Update sheet data" && git push)

@@ -6600,7 +6600,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,IM-WarehouseMalagasang Hub,IM-Warehouse,Malagasang Hub,GMA,SOL,GMA SOL,,38,5,5,5,10,19,7,,38,,,,,,,,5,5,5,10,19,7
 1,SOC 8 ParkingDau Hub,SOC 8 Parking,Dau Hub,LUZ,NOL,FAR NOL,,133,17,17,19,33,67,24,,133,2,2,2,2,3,2,,19,19,21,35,70,26
 1,Dau HubSOC 9 Parking,Dau Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,62,8,8,9,16,31,11,,62,2,2,2,2,3,2,,10,10,11,18,34,13
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 6 ParkingMFM Tipas,SOC 6 Parking,MFM Tipas,MM,NCR,MM,,37,5,5,5,9,19,7,,37,2,2,2,2,3,2,,7,7,7,11,22,9
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

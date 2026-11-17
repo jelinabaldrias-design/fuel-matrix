@@ -6596,7 +6596,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 5MFM North Caloocan,SOC 5,MFM North Caloocan,MM,NCR,MM,,72,9,9,10,18,36,13,,72,2,2,2,2,3,2,,11,11,12,20,39,15
 1,SOC 6San Carlos Hub,SOC 6,San Carlos Hub,VIS,VIS,VIS,,668,84,84,95,167,334,121,,668,2,2,2,2,3,2,,86,86,97,169,337,123
 1,San Carlos HubSOC 6,San Carlos Hub,SOC 6,GMA,NOL,GMA NOL,,668,84,84,95,167,334,121,,668,2,2,2,2,3,2,,86,86,97,169,337,123
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Pasig Dark StoreSOC 11,Pasig Dark Store,SOC 11,GMA,SOL,GMA SOL,,48,6,6,7,12,24,9,,48,2,2,2,2,3,2,,8,8,9,14,27,11
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

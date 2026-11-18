@@ -6603,6 +6603,12 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 6 ParkingMFM Tipas,SOC 6 Parking,MFM Tipas,MM,NCR,MM,,37,5,5,5,9,19,7,,37,2,2,2,2,3,2,,7,7,7,11,22,9
 1,Pio Del Pilar HubMFM Pasig,Pio Del Pilar Hub,MFM Pasig,MM,NCR,MM,,10,1,1,1,3,5,2,,10,,,,,,,,1,1,1,3,5,2
 1,MFM MarikinaSOC 6 Parking,MFM Marikina,SOC 6 Parking,GMA,NOL,GMA NOL,,30,4,4,4,8,15,5,,30,2,2,2,2,3,2,,6,6,6,10,18,7
+1,Umingan HubMabalacat-Santa Maria Hub,Umingan Hub,Mabalacat-Santa Maria Hub,LUZ,NOL,FAR NOL,,115,14,14,16,29,58,21,,115,,,,,,,,14,14,16,29,58,21
+1,Santa Maria-Mahabang Parang HubMFM Pulilan,Santa Maria-Mahabang Parang Hub,MFM Pulilan,GMA,NOL,GMA NOL,,#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),,#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),,,,,,,,#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.),#N/A (Did not find value 'Santa Maria-Mahabang Parang HubMFM Pulilan' in XLOOKUP evaluation.)
+1,Calamba HubCabuyao Hub,Calamba Hub,Cabuyao Hub,GMA,SOL,GMA SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
+1,Camanava HubParada Hub,Camanava Hub,Parada Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
@@ -6768,7 +6774,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,San Agustin HubRomblon Hub,San Agustin Hub,Romblon Hub,LUZ,SOL,FAR SOL,,17,2,2,2,4,9,3,,17,,,,,,,,2,2,2,4,9,3
 1,Romblon HubMFM Laguna,Romblon Hub,MFM Laguna,GMA,SOL,GMA SOL,,277,35,35,40,69,139,50,,277,,,,,,,,35,35,40,69,139,50
 1,Gasan HubMFM Laguna,Gasan Hub,MFM Laguna,GMA,SOL,GMA SOL,,174,22,22,25,44,87,32,,174,,,,,,,,22,22,25,44,87,32
-1,Mandaue DCCache WH 1,Mandaue DC,Cache WH 1,GMA,SOL,GMA SOL,,670,84,84,96,168,335,122,,670,,,,,,,,84,84,96,168,335,122
+,,,,,,,,670,84,84,96,168,335,122,,670,,,,,,,,84,84,96,168,335,122
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
